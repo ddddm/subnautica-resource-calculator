@@ -1,0 +1,24 @@
+import { materials, recipes, sources } from "./tools";
+
+test("materials Map has names per token", () => {
+  const token = "torpedo_system";
+  const itemName = "Torpedo System";
+  const item = materials.get(token);
+  expect(item).toBe(itemName);
+});
+
+test("recipes Map has a recipe", () => {
+  const token = "torpedo_system";
+  const item = recipes.get(token);
+  expect(item).not.toBeFalsy();
+});
+
+test("sources Map has a list of tokens", () => {
+  const item = sources.get("gold");
+  expect(item).not.toBeFalsy();
+});
+
+test("sources Map has a valid token for 'gold'", () => {
+  const item = sources.get("gold");
+  expect(item).toContain("advanced_wiring_kit");
+});

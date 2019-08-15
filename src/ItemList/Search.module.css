@@ -1,0 +1,21 @@
+.container {
+  display: flex;
+  flex-direction: row;
+}
+.input {
+  -webkit-appearance: none;
+  box-shadow: rgba(0, 0, 0, 0.33) 0px 3px 5px inset;
+  box-sizing: border-box;
+  font-size: 1rem;
+  width: 100%;
+  color: rgb(159, 189, 205);
+  max-width: 400px;
+  outline: none;
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(55, 63, 90);
+  border-image: initial;
+  border-radius: 1px;
+  padding: 14px 14px 14px 40px;
+  background: rgb(36, 43, 66);
+}

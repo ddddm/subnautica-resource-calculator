@@ -1,0 +1,12 @@
+.listItem {
+  cursor: pointer;
+  width: 100%;
+  font-size: 1rem;
+  padding: 0.75rem 20px 0.7rem;
+  margin-bottom: 0.5rem;
+  background: rgb(36, 43, 66);
+  border-width: 1px;
+  border-style: solid;
+  box-sizing: border-box;
+  border-color: rgba(0, 0, 0, 0.2);
+}

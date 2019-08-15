@@ -1,0 +1,6428 @@
+{
+  "Acid Mushroom": {
+    "name": "Acid Mushroom"
+  },
+  "Advanced Wiring Kit": {
+    "name": "Advanced Wiring Kit",
+    "materials": [
+      {
+        "item": {
+          "name": "Wiring Kit",
+          "materials": [
+            {
+              "item": {
+                "name": "Silver Ore"
+              },
+              "qty": 2
+            }
+          ]
+        },
+        "qty": 1
+      },
+      {
+        "item": {
+          "name": "Gold"
+        },
+        "qty": 2
+      },
+      {
+        "item": {
+          "name": "Computer Chip",
+          "materials": [
+            {
+              "item": {
+                "name": "Table Coral Sample"
+              },
+              "qty": 2
+            },
+            {
+              "item": {
+                "name": "Gold"
+              },
+              "qty": 1
+            },
+            {
+              "item": {
+                "name": "Copper Wire",
+                "materials": [
+                  {
+                    "item": {
+                      "name": "Copper Ore"
+                    },
+                    "qty": 2
+                  }
+                ]
+              },
+              "qty": 1
+            }
+          ]
+        },
+        "qty": 1
+      }
+    ]
+  },
+  "Aerogel": {
+    "name": "Aerogel",
+    "materials": [
+      {
+        "item": {
+          "name": "Gel Sack"
+        },
+        "qty": 1
+      },
+      {
+        "item": {
+          "name": "Ruby"
+        },
+        "qty": 1
+      }
+    ]
+  },
+  "Air Bladder": {
+    "name": "Air Bladder",
+    "materials": [
+      {
+        "item": {
+          "name": "Silicone Rubber",
+          "materials": [
+            {
+              "item": {
+                "name": "Creepvine Seed Cluster"
+              },
+              "qty": 1
+            }
+          ],
+          "resultcount": 2
+        },
+        "qty": 1
+      },
+      {
+        "item": {
+          "name": "Bladderfish"
+        },
+        "qty": 1
+      }
+    ]
+  },
+  "Alien Containment": {
+    "name": "Alien Containment",
+    "materials": [
+      {
+        "item": {
+          "name": "Glass",
+          "materials": [
+            {
+              "item": {
+                "name": "Quartz"
+              },
+              "qty": 2
+            }
+          ]
+        },
+        "qty": 5
+      },
+      {
+        "item": {
+          "name": "Titanium"
+        },
+        "qty": 2
+      }
+    ]
+  },
+  "An Unusual Doll": {
+    "name": "An Unusual Doll",
+    "materials": [
+      {
+        "item": {
+          "name": "Glass",
+          "materials": [
+            {
+              "item": {
+                "name": "Quartz"
+              },
+              "qty": 2
+            }
+          ]
+        },
+        "qty": 1
+      },
+      {
+        "item": {
+          "name": "Titanium"
+        },
+        "qty": 1
+      }
+    ]
+  },
+  "Aquarium": {
+    "name": "Aquarium",
+    "materials": [
+      {
+        "item": {
+          "name": "Glass",
+          "materials": [
+            {
+              "item": {
+                "name": "Quartz"
+              },
+              "qty": 2
+            }
+          ]
+        },
+        "qty": 2
+      },
+      {
+        "item": {
+          "name": "Titanium"
+        },
+        "qty": 1
+      }
+    ]
+  },
+  "Bar Table": {
+    "name": "Bar Table",
+    "materials": [
+      {
+        "item": {
+          "name": "Glass",
+          "materials": [
+            {
+              "item": {
+                "name": "Quartz"
+              },
+              "qty": 2
+            }
+          ]
+        },
+        "qty": 1
+      },
+      {
+        "item": {
+          "name": "Titanium"
+        },
+        "qty": 1
+      }
+    ]
+  },
+  "Base Pipe Connector": {
+    "name": "Base Pipe Connector",
+    "materials": [
+      {
+        "item": {
+          "name": "Titanium"
+        },
+        "qty": 2
+      }
+    ]
+  },
+  "Basic Compartment": {
+    "name": "Basic Compartment",
+    "materials": [
+      {
+        "item": {
+          "name": "Titanium"
+        },
+        "qty": 2
+      }
+    ]
+  },
+  "Basic Double Bed": {
+    "name": "Basic Double Bed",
+    "materials": [
+      {
+        "item": {
+          "name": "Titanium"
+        },
+        "qty": 2
+      },
+      {
+        "item": {
+          "name": "Fiber Mesh",
+          "materials": [
+            {
+              "item": {
+                "name": "Creepvine Sample"
+              },
+              "qty": 2
+            }
+          ]
+        },
+        "qty": 1
+      }
+    ]
+  },
+  "Basic Plant Pot": {
+    "name": "Basic Plant Pot",
+    "materials": [
+      {
+        "item": {
+          "name": "Titanium"
+        },
+        "qty": 2
+      }
+    ]
+  },
+  "Battery": {
+    "name": "Battery",
+    "materials": [
+      {
+        "item": {
+          "name": "Acid Mushroom"
+        },
+        "qty": 2
+      },
+      {
+        "item": {
+          "name": "Copper Ore"
+        },
+        "qty": 1
+      }
+    ]
+  },
+  "Battery Charger": {
+    "name": "Battery Charger",
+    "materials": [
+      {
+        "item": {
+          "name": "Wiring Kit",
+          "materials": [
+            {
+              "item": {
+                "name": "Silver Ore"
+              },
+              "qty": 2
+            }
+          ]
+        },
+        "qty": 1
+      },
+      {
+        "item": {
+          "name": "Copper Wire",
+          "materials": [
+            {
+              "item": {
+                "name": "Copper Ore"
+              },
+              "qty": 2
+            }
+          ]
+        },
+        "qty": 1
+      },
+      {
+        "item": {
+          "name": "Titanium"
+        },
+        "qty": 1
+      }
+    ]
+  },
+  "Beacon": {
+    "name": "Beacon",
+    "materials": [
+      {
+        "item": {
+          "name": "Copper Ore"
+        },
+        "qty": 1
+      },
+      {
+        "item": {
+          "name": "Titanium"
+        },
+        "qty": 1
+      }
+    ]
+  },
+  "Bench": {
+    "name": "Bench",
+    "materials": [
+      {
+        "item": {
+          "name": "Titanium"
+        },
+        "qty": 2
+      }
+    ]
+  },
+  "Benzene": {
+    "name": "Benzene",
+    "materials": [
+      {
+        "item": {
+          "name": "Blood Oil"
+        },
+        "qty": 3
+      }
+    ]
+  },
+  "Bioreactor": {
+    "name": "Bioreactor",
+    "materials": [
+      {
+        "item": {
+          "name": "Titanium"
+        },
+        "qty": 3
+      },
+      {
+        "item": {
+          "name": "Wiring Kit",
+          "materials": [
+            {
+              "item": {
+                "name": "Silver Ore"
+              },
+              "qty": 2
+            }
+          ]
+        },
+        "qty": 1
+      },
+      {
+        "item": {
+          "name": "Lubricant",
+          "materials": [
+            {
+              "item": {
+                "name": "Creepvine Seed Cluster"
+              },
+              "qty": 1
+            }
+          ]
+        },
+        "qty": 1
+      }
+    ]
+  },
+  "Bladderfish": {
+    "name": "Bladderfish"
+  },
+  "Bleach": {
+    "name": "Bleach",
+    "materials": [
+      {
+        "item": {
+          "name": "Salt Deposit"
+        },
+        "qty": 1
+      },
+      {
+        "item": {
+          "name": "Coral Tube Sample"
+        },
+        "qty": 1
+      }
+    ]
+  },
+  "Blood Oil": {
+    "name": "Blood Oil"
+  },
+  "Blue Tablet": {
+    "name": "Blue Tablet",
+    "materials": [
+      {
+        "item": {
+          "name": "Ion Cube"
+        },
+        "qty": 1
+      },
+      {
+        "item": {
+          "name": "Kyanite"
+        },
+        "qty": 2
+      }
+    ]
+  },
+  "Bulb Bush Sample": {
+    "name": "Bulb Bush Sample"
+  },
+  "Bulkhead": {
+    "name": "Bulkhead",
+    "materials": [
+      {
+        "item": {
+          "name": "Titanium"
+        },
+        "qty": 3
+      },
+      {
+        "item": {
+          "name": "Silicone Rubber",
+          "materials": [
+            {
+              "item": {
+                "name": "Creepvine Seed Cluster"
+              },
+              "qty": 1
+            }
+          ],
+          "resultcount": 2
+        },
+        "qty": 1
+      }
+    ]
+  },
+  "Camera Drone": {
+    "name": "Camera Drone",
+    "materials": [
+      {
+        "item": {
+          "name": "Computer Chip",
+          "materials": [
+            {
+              "item": {
+                "name": "Table Coral Sample"
+              },
+              "qty": 2
+            },
+            {
+              "item": {
+                "name": "Gold"
+              },
+              "qty": 1
+            },
+            {
+              "item": {
+                "name": "Copper Wire",
+                "materials": [
+                  {
+                    "item": {
+                      "name": "Copper Ore"
+                    },
+                    "qty": 2
+                  }
+                ]
+              },
+              "qty": 1
+            }
+          ]
+        },
+        "qty": 1
+      },
+      {
+        "item": {
+          "name": "Battery",
+          "materials": [
+            {
+              "item": {
+                "name": "Acid Mushroom"
+              },
+              "qty": 2
+            },
+            {
+              "item": {
+                "name": "Copper Ore"
+              },
+              "qty": 1
+            }
+          ]
+        },
+        "qty": 1
+      },
+      {
+        "item": {
+          "name": "Glass",
+          "materials": [
+            {
+              "item": {
+                "name": "Quartz"
+              },
+              "qty": 2
+            }
+          ]
+        },
+        "qty": 1
+      },
+      {
+        "item": {
+          "name": "Titanium"
+        },
+        "qty": 1
+      }
+    ]
+  },
+  "Cave Sulfur": {
+    "name": "Cave Sulfur"
+  },
+  "Chic Plant Pot": {
+    "name": "Chic Plant Pot",
+    "materials": [
+      {
+        "item": {
+          "name": "Titanium"
+        },
+        "qty": 2
+      }
+    ]
+  },
+  "Coffee Vending Machine": {
+    "name": "Coffee Vending Machine",
+    "materials": [
+      {
+        "item": {
+          "name": "Titanium"
+        },
+        "qty": 2
+      }
+    ]
+  },
+  "Command Chair": {
+    "name": "Command Chair",
+    "materials": [
+      {
+        "item": {
+          "name": "Titanium"
+        },
+        "qty": 1
+      }
+    ]
+  },
+  "Compass": {
+    "name": "Compass",
+    "materials": [
+      {
+        "item": {
+          "name": "Copper Wire",
+          "materials": [
+            {
+              "item": {
+                "name": "Copper Ore"
+              },
+              "qty": 2
+            }
+          ]
+        },
+        "qty": 1
+      },
+      {
+        "item": {
+          "name": "Wiring Kit",
+          "materials": [
+            {
+              "item": {
+                "name": "Silver Ore"
+              },
+              "qty": 2
+            }
+          ]
+        },
+        "qty": 1
+      }
+    ]
+  },
+  "Composite Plant Pot": {
+    "name": "Composite Plant Pot",
+    "materials": [
+      {
+        "item": {
+          "name": "Titanium"
+        },
+        "qty": 2
+      }
+    ]
+  },
+  "Computer Chip": {
+    "name": "Computer Chip",
+    "materials": [
+      {
+        "item": {
+          "name": "Table Coral Sample"
+        },
+        "qty": 2
+      },
+      {
+        "item": {
+          "name": "Gold"
+        },
+        "qty": 1
+      },
+      {
+        "item": {
+          "name": "Copper Wire",
+          "materials": [
+            {
+              "item": {
+                "name": "Copper Ore"
+              },
+              "qty": 2
+            }
+          ]
+        },
+        "qty": 1
+      }
+    ]
+  },
+  "Copper Ore": {
+    "name": "Copper Ore"
+  },
+  "Copper Wire": {
+    "name": "Copper Wire",
+    "materials": [
+      {
+        "item": {
+          "name": "Copper Ore"
+        },
+        "qty": 2
+      }
+    ]
+  },
+  "Coral Tube Sample": {
+    "name": "Coral Tube Sample"
+  },
+  "Creature Decoy": {
+    "name": "Creature Decoy",
+    "materials": [
+      {
+        "item": {
+          "name": "Titanium"
+        },
+        "qty": 3
+      },
+      {
+        "item": {
+          "name": "Wiring Kit",
+          "materials": [
+            {
+              "item": {
+                "name": "Silver Ore"
+              },
+              "qty": 2
+            }
+          ]
+        },
+        "qty": 1
+      }
+    ],
+    "resultcount": 3
+  },
+  "Creepvine Sample": {
+    "name": "Creepvine Sample"
+  },
+  "Creepvine Seed Cluster": {
+    "name": "Creepvine Seed Cluster"
+  },
+  "Crystalline Sulfur": {
+    "name": "Crystalline Sulfur"
+  },
+  "Cyclops": {
+    "name": "Cyclops",
+    "materials": [
+      {
+        "item": {
+          "name": "Plasteel Ingot",
+          "materials": [
+            {
+              "item": {
+                "name": "Titanium Ingot",
+                "materials": [
+                  {
+                    "item": {
+                      "name": "Titanium"
+                    },
+                    "qty": 10
+                  }
+                ]
+              },
+              "qty": 1
+            },
+            {
+              "item": {
+                "name": "Lithium"
+              },
+              "qty": 2
+            }
+          ]
+        },
+        "qty": 3
+      },
+      {
+        "item": {
+          "name": "Enameled Glass",
+          "materials": [
+            {
+              "item": {
+                "name": "Stalker Tooth"
+              },
+              "qty": 1
+            },
+            {
+              "item": {
+                "name": "Glass",
+                "materials": [
+                  {
+                    "item": {
+                      "name": "Quartz"
+                    },
+                    "qty": 2
+                  }
+                ]
+              },
+              "qty": 1
+            }
+          ]
+        },
+        "qty": 3
+      },
+      {
+        "item": {
+          "name": "Lubricant",
+          "materials": [
+            {
+              "item": {
+                "name": "Creepvine Seed Cluster"
+              },
+              "qty": 1
+            }
+          ]
+        },
+        "qty": 1
+      },
+      {
+        "item": {
+          "name": "Advanced Wiring Kit",
+          "materials": [
+            {
+              "item": {
+                "name": "Wiring Kit",
+                "materials": [
+                  {
+                    "item": {
+                      "name": "Silver Ore"
+                    },
+                    "qty": 2
+                  }
+                ]
+              },
+              "qty": 1
+            },
+            {
+              "item": {
+                "name": "Gold"
+              },
+              "qty": 2
+            },
+            {
+              "item": {
+                "name": "Computer Chip",
+                "materials": [
+                  {
+                    "item": {
+                      "name": "Table Coral Sample"
+                    },
+                    "qty": 2
+                  },
+                  {
+                    "item": {
+                      "name": "Gold"
+                    },
+                    "qty": 1
+                  },
+                  {
+                    "item": {
+                      "name": "Copper Wire",
+                      "materials": [
+                        {
+                          "item": {
+                            "name": "Copper Ore"
+                          },
+                          "qty": 2
+                        }
+                      ]
+                    },
+                    "qty": 1
+                  }
+                ]
+              },
+              "qty": 1
+            }
+          ]
+        },
+        "qty": 1
+      },
+      {
+        "item": {
+          "name": "Lead"
+        },
+        "qty": 3
+      }
+    ]
+  },
+  "Cyclops Decoy Tube Upgrade": {
+    "name": "Cyclops Decoy Tube Upgrade",
+    "materials": [
+      {
+        "item": {
+          "name": "Titanium"
+        },
+        "qty": 3
+      },
+      {
+        "item": {
+          "name": "Lithium"
+        },
+        "qty": 2
+      },
+      {
+        "item": {
+          "name": "Aerogel",
+          "materials": [
+            {
+              "item": {
+                "name": "Gel Sack"
+              },
+              "qty": 1
+            },
+            {
+              "item": {
+                "name": "Ruby"
+              },
+              "qty": 1
+            }
+          ]
+        },
+        "qty": 1
+      }
+    ]
+  },
+  "Cyclops Depth Module MK1": {
+    "name": "Cyclops Depth Module MK1",
+    "materials": [
+      {
+        "item": {
+          "name": "Plasteel Ingot",
+          "materials": [
+            {
+              "item": {
+                "name": "Titanium Ingot",
+                "materials": [
+                  {
+                    "item": {
+                      "name": "Titanium"
+                    },
+                    "qty": 10
+                  }
+                ]
+              },
+              "qty": 1
+            },
+            {
+              "item": {
+                "name": "Lithium"
+              },
+              "qty": 2
+            }
+          ]
+        },
+        "qty": 1
+      },
+      {
+        "item": {
+          "name": "Ruby"
+        },
+        "qty": 3
+      }
+    ]
+  },
+  "Cyclops Depth Module MK2": {
+    "name": "Cyclops Depth Module MK2",
+    "materials": [
+      {
+        "item": {
+          "name": "Cyclops Depth Module MK1",
+          "materials": [
+            {
+              "item": {
+                "name": "Plasteel Ingot",
+                "materials": [
+                  {
+                    "item": {
+                      "name": "Titanium Ingot",
+                      "materials": [
+                        {
+                          "item": {
+                            "name": "Titanium"
+                          },
+                          "qty": 10
+                        }
+                      ]
+                    },
+                    "qty": 1
+                  },
+                  {
+                    "item": {
+                      "name": "Lithium"
+                    },
+                    "qty": 2
+                  }
+                ]
+              },
+              "qty": 1
+            },
+            {
+              "item": {
+                "name": "Ruby"
+              },
+              "qty": 3
+            }
+          ]
+        },
+        "qty": 1
+      },
+      {
+        "item": {
+          "name": "Plasteel Ingot",
+          "materials": [
+            {
+              "item": {
+                "name": "Titanium Ingot",
+                "materials": [
+                  {
+                    "item": {
+                      "name": "Titanium"
+                    },
+                    "qty": 10
+                  }
+                ]
+              },
+              "qty": 1
+            },
+            {
+              "item": {
+                "name": "Lithium"
+              },
+              "qty": 2
+            }
+          ]
+        },
+        "qty": 1
+      },
+      {
+        "item": {
+          "name": "Nickel Ore"
+        },
+        "qty": 3
+      }
+    ]
+  },
+  "Cyclops Depth Module MK3": {
+    "name": "Cyclops Depth Module MK3",
+    "materials": [
+      {
+        "item": {
+          "name": "Cyclops Depth Module MK2",
+          "materials": [
+            {
+              "item": {
+                "name": "Cyclops Depth Module MK1",
+                "materials": [
+                  {
+                    "item": {
+                      "name": "Plasteel Ingot",
+                      "materials": [
+                        {
+                          "item": {
+                            "name": "Titanium Ingot",
+                            "materials": [
+                              {
+                                "item": {
+                                  "name": "Titanium"
+                                },
+                                "qty": 10
+                              }
+                            ]
+                          },
+                          "qty": 1
+                        },
+                        {
+                          "item": {
+                            "name": "Lithium"
+                          },
+                          "qty": 2
+                        }
+                      ]
+                    },
+                    "qty": 1
+                  },
+                  {
+                    "item": {
+                      "name": "Ruby"
+                    },
+                    "qty": 3
+                  }
+                ]
+              },
+              "qty": 1
+            },
+            {
+              "item": {
+                "name": "Plasteel Ingot",
+                "materials": [
+                  {
+                    "item": {
+                      "name": "Titanium Ingot",
+                      "materials": [
+                        {
+                          "item": {
+                            "name": "Titanium"
+                          },
+                          "qty": 10
+                        }
+                      ]
+                    },
+                    "qty": 1
+                  },
+                  {
+                    "item": {
+                      "name": "Lithium"
+                    },
+                    "qty": 2
+                  }
+                ]
+              },
+              "qty": 1
+            },
+            {
+              "item": {
+                "name": "Nickel Ore"
+              },
+              "qty": 3
+            }
+          ]
+        },
+        "qty": 1
+      },
+      {
+        "item": {
+          "name": "Plasteel Ingot",
+          "materials": [
+            {
+              "item": {
+                "name": "Titanium Ingot",
+                "materials": [
+                  {
+                    "item": {
+                      "name": "Titanium"
+                    },
+                    "qty": 10
+                  }
+                ]
+              },
+              "qty": 1
+            },
+            {
+              "item": {
+                "name": "Lithium"
+              },
+              "qty": 2
+            }
+          ]
+        },
+        "qty": 1
+      },
+      {
+        "item": {
+          "name": "Kyanite"
+        },
+        "qty": 3
+      }
+    ]
+  },
+  "Cyclops Docking Bay Repair Module": {
+    "name": "Cyclops Docking Bay Repair Module",
+    "materials": [
+      {
+        "item": {
+          "name": "Repair Tool",
+          "materials": [
+            {
+              "item": {
+                "name": "Silicone Rubber",
+                "materials": [
+                  {
+                    "item": {
+                      "name": "Creepvine Seed Cluster"
+                    },
+                    "qty": 1
+                  }
+                ],
+                "resultcount": 2
+              },
+              "qty": 1
+            },
+            {
+              "item": {
+                "name": "Cave Sulfur"
+              },
+              "qty": 1
+            },
+            {
+              "item": {
+                "name": "Titanium"
+              },
+              "qty": 1
+            }
+          ]
+        },
+        "qty": 1
+      },
+      {
+        "item": {
+          "name": "Copper Wire",
+          "materials": [
+            {
+              "item": {
+                "name": "Copper Ore"
+              },
+              "qty": 2
+            }
+          ]
+        },
+        "qty": 1
+      }
+    ]
+  },
+  "Cyclops Engine Efficiency Module": {
+    "name": "Cyclops Engine Efficiency Module",
+    "materials": [
+      {
+        "item": {
+          "name": "Computer Chip",
+          "materials": [
+            {
+              "item": {
+                "name": "Table Coral Sample"
+              },
+              "qty": 2
+            },
+            {
+              "item": {
+                "name": "Gold"
+              },
+              "qty": 1
+            },
+            {
+              "item": {
+                "name": "Copper Wire",
+                "materials": [
+                  {
+                    "item": {
+                      "name": "Copper Ore"
+                    },
+                    "qty": 2
+                  }
+                ]
+              },
+              "qty": 1
+            }
+          ]
+        },
+        "qty": 1
+      },
+      {
+        "item": {
+          "name": "Benzene",
+          "materials": [
+            {
+              "item": {
+                "name": "Blood Oil"
+              },
+              "qty": 3
+            }
+          ]
+        },
+        "qty": 1
+      },
+      {
+        "item": {
+          "name": "Polyaniline",
+          "materials": [
+            {
+              "item": {
+                "name": "Gold"
+              },
+              "qty": 1
+            },
+            {
+              "item": {
+                "name": "Hydrochloric Acid",
+                "materials": [
+                  {
+                    "item": {
+                      "name": "Deep Shroom"
+                    },
+                    "qty": 3
+                  },
+                  {
+                    "item": {
+                      "name": "Salt Deposit"
+                    },
+                    "qty": 1
+                  }
+                ]
+              },
+              "qty": 1
+            }
+          ]
+        },
+        "qty": 1
+      }
+    ]
+  },
+  "Cyclops Fire Suppression System": {
+    "name": "Cyclops Fire Suppression System",
+    "materials": [
+      {
+        "item": {
+          "name": "Aerogel",
+          "materials": [
+            {
+              "item": {
+                "name": "Gel Sack"
+              },
+              "qty": 1
+            },
+            {
+              "item": {
+                "name": "Ruby"
+              },
+              "qty": 1
+            }
+          ]
+        },
+        "qty": 2
+      },
+      {
+        "item": {
+          "name": "Crystalline Sulfur"
+        },
+        "qty": 2
+      }
+    ]
+  },
+  "Cyclops Shield Generator": {
+    "name": "Cyclops Shield Generator",
+    "materials": [
+      {
+        "item": {
+          "name": "Advanced Wiring Kit",
+          "materials": [
+            {
+              "item": {
+                "name": "Wiring Kit",
+                "materials": [
+                  {
+                    "item": {
+                      "name": "Silver Ore"
+                    },
+                    "qty": 2
+                  }
+                ]
+              },
+              "qty": 1
+            },
+            {
+              "item": {
+                "name": "Gold"
+              },
+              "qty": 2
+            },
+            {
+              "item": {
+                "name": "Computer Chip",
+                "materials": [
+                  {
+                    "item": {
+                      "name": "Table Coral Sample"
+                    },
+                    "qty": 2
+                  },
+                  {
+                    "item": {
+                      "name": "Gold"
+                    },
+                    "qty": 1
+                  },
+                  {
+                    "item": {
+                      "name": "Copper Wire",
+                      "materials": [
+                        {
+                          "item": {
+                            "name": "Copper Ore"
+                          },
+                          "qty": 2
+                        }
+                      ]
+                    },
+                    "qty": 1
+                  }
+                ]
+              },
+              "qty": 1
+            }
+          ]
+        },
+        "qty": 1
+      },
+      {
+        "item": {
+          "name": "Polyaniline",
+          "materials": [
+            {
+              "item": {
+                "name": "Gold"
+              },
+              "qty": 1
+            },
+            {
+              "item": {
+                "name": "Hydrochloric Acid",
+                "materials": [
+                  {
+                    "item": {
+                      "name": "Deep Shroom"
+                    },
+                    "qty": 3
+                  },
+                  {
+                    "item": {
+                      "name": "Salt Deposit"
+                    },
+                    "qty": 1
+                  }
+                ]
+              },
+              "qty": 1
+            }
+          ]
+        },
+        "qty": 1
+      },
+      {
+        "item": {
+          "name": "Power Cell",
+          "materials": [
+            {
+              "item": {
+                "name": "Battery",
+                "materials": [
+                  {
+                    "item": {
+                      "name": "Acid Mushroom"
+                    },
+                    "qty": 2
+                  },
+                  {
+                    "item": {
+                      "name": "Copper Ore"
+                    },
+                    "qty": 1
+                  }
+                ]
+              },
+              "qty": 2
+            },
+            {
+              "item": {
+                "name": "Silicone Rubber",
+                "materials": [
+                  {
+                    "item": {
+                      "name": "Creepvine Seed Cluster"
+                    },
+                    "qty": 1
+                  }
+                ],
+                "resultcount": 2
+              },
+              "qty": 1
+            }
+          ]
+        },
+        "qty": 1
+      }
+    ]
+  },
+  "Cyclops Sonar Upgrade": {
+    "name": "Cyclops Sonar Upgrade",
+    "materials": [
+      {
+        "item": {
+          "name": "Computer Chip",
+          "materials": [
+            {
+              "item": {
+                "name": "Table Coral Sample"
+              },
+              "qty": 2
+            },
+            {
+              "item": {
+                "name": "Gold"
+              },
+              "qty": 1
+            },
+            {
+              "item": {
+                "name": "Copper Wire",
+                "materials": [
+                  {
+                    "item": {
+                      "name": "Copper Ore"
+                    },
+                    "qty": 2
+                  }
+                ]
+              },
+              "qty": 1
+            }
+          ]
+        },
+        "qty": 1
+      },
+      {
+        "item": {
+          "name": "Magnetite"
+        },
+        "qty": 3
+      }
+    ]
+  },
+  "Cyclops Thermal Reactor Module": {
+    "name": "Cyclops Thermal Reactor Module",
+    "materials": [
+      {
+        "item": {
+          "name": "Polyaniline",
+          "materials": [
+            {
+              "item": {
+                "name": "Gold"
+              },
+              "qty": 1
+            },
+            {
+              "item": {
+                "name": "Hydrochloric Acid",
+                "materials": [
+                  {
+                    "item": {
+                      "name": "Deep Shroom"
+                    },
+                    "qty": 3
+                  },
+                  {
+                    "item": {
+                      "name": "Salt Deposit"
+                    },
+                    "qty": 1
+                  }
+                ]
+              },
+              "qty": 1
+            }
+          ]
+        },
+        "qty": 2
+      },
+      {
+        "item": {
+          "name": "Kyanite"
+        },
+        "qty": 4
+      },
+      {
+        "item": {
+          "name": "Wiring Kit",
+          "materials": [
+            {
+              "item": {
+                "name": "Silver Ore"
+              },
+              "qty": 2
+            }
+          ]
+        },
+        "qty": 1
+      }
+    ]
+  },
+  "Deep Shroom": {
+    "name": "Deep Shroom"
+  },
+  "Desk": {
+    "name": "Desk",
+    "materials": [
+      {
+        "item": {
+          "name": "Titanium"
+        },
+        "qty": 1
+      }
+    ]
+  },
+  "Diamond": {
+    "name": "Diamond"
+  },
+  "Disinfected Water": {
+    "name": "Disinfected Water",
+    "materials": [
+      {
+        "item": {
+          "name": "Bleach",
+          "materials": [
+            {
+              "item": {
+                "name": "Salt Deposit"
+              },
+              "qty": 1
+            },
+            {
+              "item": {
+                "name": "Coral Tube Sample"
+              },
+              "qty": 1
+            }
+          ]
+        },
+        "qty": 1
+      }
+    ],
+    "resultcount": 2
+  },
+  "Enameled Glass": {
+    "name": "Enameled Glass",
+    "materials": [
+      {
+        "item": {
+          "name": "Stalker Tooth"
+        },
+        "qty": 1
+      },
+      {
+        "item": {
+          "name": "Glass",
+          "materials": [
+            {
+              "item": {
+                "name": "Quartz"
+              },
+              "qty": 2
+            }
+          ]
+        },
+        "qty": 1
+      }
+    ]
+  },
+  "Engine Efficiency Module": {
+    "name": "Engine Efficiency Module",
+    "materials": [
+      {
+        "item": {
+          "name": "Computer Chip",
+          "materials": [
+            {
+              "item": {
+                "name": "Table Coral Sample"
+              },
+              "qty": 2
+            },
+            {
+              "item": {
+                "name": "Gold"
+              },
+              "qty": 1
+            },
+            {
+              "item": {
+                "name": "Copper Wire",
+                "materials": [
+                  {
+                    "item": {
+                      "name": "Copper Ore"
+                    },
+                    "qty": 2
+                  }
+                ]
+              },
+              "qty": 1
+            }
+          ]
+        },
+        "qty": 1
+      },
+      {
+        "item": {
+          "name": "Polyaniline",
+          "materials": [
+            {
+              "item": {
+                "name": "Gold"
+              },
+              "qty": 1
+            },
+            {
+              "item": {
+                "name": "Hydrochloric Acid",
+                "materials": [
+                  {
+                    "item": {
+                      "name": "Deep Shroom"
+                    },
+                    "qty": 3
+                  },
+                  {
+                    "item": {
+                      "name": "Salt Deposit"
+                    },
+                    "qty": 1
+                  }
+                ]
+              },
+              "qty": 1
+            }
+          ]
+        },
+        "qty": 1
+      }
+    ]
+  },
+  "Exterior Growbed": {
+    "name": "Exterior Growbed",
+    "materials": [
+      {
+        "item": {
+          "name": "Titanium"
+        },
+        "qty": 2
+      }
+    ]
+  },
+  "Eyes Plant Seed": {
+    "name": "Eyes Plant Seed"
+  },
+  "Fabricator": {
+    "name": "Fabricator",
+    "materials": [
+      {
+        "item": {
+          "name": "Titanium"
+        },
+        "qty": 1
+      },
+      {
+        "item": {
+          "name": "Gold"
+        },
+        "qty": 1
+      },
+      {
+        "item": {
+          "name": "Table Coral Sample"
+        },
+        "qty": 1
+      }
+    ]
+  },
+  "Fiber Mesh": {
+    "name": "Fiber Mesh",
+    "materials": [
+      {
+        "item": {
+          "name": "Creepvine Sample"
+        },
+        "qty": 2
+      }
+    ]
+  },
+  "Filtered Water": {
+    "name": "Filtered Water",
+    "materials": [
+      {
+        "item": {
+          "name": "Bladderfish"
+        },
+        "qty": 1
+      }
+    ]
+  },
+  "Fins": {
+    "name": "Fins",
+    "materials": [
+      {
+        "item": {
+          "name": "Silicone Rubber",
+          "materials": [
+            {
+              "item": {
+                "name": "Creepvine Seed Cluster"
+              },
+              "qty": 1
+            }
+          ],
+          "resultcount": 2
+        },
+        "qty": 2
+      }
+    ]
+  },
+  "Fire Extinguisher": {
+    "name": "Fire Extinguisher",
+    "materials": [
+      {
+        "item": {
+          "name": "Titanium"
+        },
+        "qty": 3
+      }
+    ]
+  },
+  "First Aid Kit": {
+    "name": "First Aid Kit",
+    "materials": [
+      {
+        "item": {
+          "name": "Fiber Mesh",
+          "materials": [
+            {
+              "item": {
+                "name": "Creepvine Sample"
+              },
+              "qty": 2
+            }
+          ]
+        },
+        "qty": 1
+      }
+    ]
+  },
+  "Flare": {
+    "name": "Flare",
+    "materials": [
+      {
+        "item": {
+          "name": "Cave Sulfur"
+        },
+        "qty": 1
+      }
+    ],
+    "resultcount": 5
+  },
+  "Flashlight": {
+    "name": "Flashlight",
+    "materials": [
+      {
+        "item": {
+          "name": "Battery",
+          "materials": [
+            {
+              "item": {
+                "name": "Acid Mushroom"
+              },
+              "qty": 2
+            },
+            {
+              "item": {
+                "name": "Copper Ore"
+              },
+              "qty": 1
+            }
+          ]
+        },
+        "qty": 1
+      },
+      {
+        "item": {
+          "name": "Glass",
+          "materials": [
+            {
+              "item": {
+                "name": "Quartz"
+              },
+              "qty": 2
+            }
+          ]
+        },
+        "qty": 1
+      }
+    ]
+  },
+  "Floodlight": {
+    "name": "Floodlight",
+    "materials": [
+      {
+        "item": {
+          "name": "Glass",
+          "materials": [
+            {
+              "item": {
+                "name": "Quartz"
+              },
+              "qty": 2
+            }
+          ]
+        },
+        "qty": 1
+      },
+      {
+        "item": {
+          "name": "Titanium"
+        },
+        "qty": 1
+      }
+    ]
+  },
+  "Foundation": {
+    "name": "Foundation",
+    "materials": [
+      {
+        "item": {
+          "name": "Titanium"
+        },
+        "qty": 2
+      },
+      {
+        "item": {
+          "name": "Lead"
+        },
+        "qty": 2
+      }
+    ]
+  },
+  "Fungal Sample": {
+    "name": "Fungal Sample"
+  },
+  "Gas Pod": {
+    "name": "Gas Pod"
+  },
+  "Gas Torpedo": {
+    "name": "Gas Torpedo",
+    "materials": [
+      {
+        "item": {
+          "name": "Titanium"
+        },
+        "qty": 1
+      },
+      {
+        "item": {
+          "name": "Gas Pod"
+        },
+        "qty": 1
+      }
+    ],
+    "resultcount": 2
+  },
+  "Gel Sack": {
+    "name": "Gel Sack"
+  },
+  "Ghost Weed Seed": {
+    "name": "Ghost Weed Seed"
+  },
+  "Glass": {
+    "name": "Glass",
+    "materials": [
+      {
+        "item": {
+          "name": "Quartz"
+        },
+        "qty": 2
+      }
+    ]
+  },
+  "Glass Compartment": {
+    "name": "Glass Compartment",
+    "materials": [
+      {
+        "item": {
+          "name": "Glass",
+          "materials": [
+            {
+              "item": {
+                "name": "Quartz"
+              },
+              "qty": 2
+            }
+          ]
+        },
+        "qty": 2
+      }
+    ]
+  },
+  "Gold": {
+    "name": "Gold"
+  },
+  "Grav Trap": {
+    "name": "Grav Trap",
+    "materials": [
+      {
+        "item": {
+          "name": "Battery",
+          "materials": [
+            {
+              "item": {
+                "name": "Acid Mushroom"
+              },
+              "qty": 2
+            },
+            {
+              "item": {
+                "name": "Copper Ore"
+              },
+              "qty": 1
+            }
+          ]
+        },
+        "qty": 1
+      },
+      {
+        "item": {
+          "name": "Copper Ore"
+        },
+        "qty": 1
+      },
+      {
+        "item": {
+          "name": "Titanium"
+        },
+        "qty": 1
+      }
+    ]
+  },
+  "Habitat Builder": {
+    "name": "Habitat Builder",
+    "materials": [
+      {
+        "item": {
+          "name": "Wiring Kit",
+          "materials": [
+            {
+              "item": {
+                "name": "Silver Ore"
+              },
+              "qty": 2
+            }
+          ]
+        },
+        "qty": 1
+      },
+      {
+        "item": {
+          "name": "Computer Chip",
+          "materials": [
+            {
+              "item": {
+                "name": "Table Coral Sample"
+              },
+              "qty": 2
+            },
+            {
+              "item": {
+                "name": "Gold"
+              },
+              "qty": 1
+            },
+            {
+              "item": {
+                "name": "Copper Wire",
+                "materials": [
+                  {
+                    "item": {
+                      "name": "Copper Ore"
+                    },
+                    "qty": 2
+                  }
+                ]
+              },
+              "qty": 1
+            }
+          ]
+        },
+        "qty": 1
+      },
+      {
+        "item": {
+          "name": "Battery",
+          "materials": [
+            {
+              "item": {
+                "name": "Acid Mushroom"
+              },
+              "qty": 2
+            },
+            {
+              "item": {
+                "name": "Copper Ore"
+              },
+              "qty": 1
+            }
+          ]
+        },
+        "qty": 1
+      }
+    ]
+  },
+  "Hatch": {
+    "name": "Hatch",
+    "materials": [
+      {
+        "item": {
+          "name": "Quartz"
+        },
+        "qty": 1
+      },
+      {
+        "item": {
+          "name": "Titanium"
+        },
+        "qty": 2
+      }
+    ]
+  },
+  "Hatching Enzymes": {
+    "name": "Hatching Enzymes",
+    "materials": [
+      {
+        "item": {
+          "name": "Eyes Plant Seed"
+        },
+        "qty": 1
+      },
+      {
+        "item": {
+          "name": "Fungal Sample"
+        },
+        "qty": 1
+      },
+      {
+        "item": {
+          "name": "Ghost Weed Seed"
+        },
+        "qty": 1
+      },
+      {
+        "item": {
+          "name": "Sea Crown Seed"
+        },
+        "qty": 1
+      },
+      {
+        "item": {
+          "name": "Bulb Bush Sample"
+        },
+        "qty": 1
+      }
+    ]
+  },
+  "High Capacity O2 Tank": {
+    "name": "High Capacity O2 Tank",
+    "materials": [
+      {
+        "item": {
+          "name": "Standard O2 Tank",
+          "materials": [
+            {
+              "item": {
+                "name": "Titanium"
+              },
+              "qty": 3
+            }
+          ]
+        },
+        "qty": 1
+      },
+      {
+        "item": {
+          "name": "Glass",
+          "materials": [
+            {
+              "item": {
+                "name": "Quartz"
+              },
+              "qty": 2
+            }
+          ]
+        },
+        "qty": 2
+      },
+      {
+        "item": {
+          "name": "Titanium"
+        },
+        "qty": 4
+      },
+      {
+        "item": {
+          "name": "Silver Ore"
+        },
+        "qty": 1
+      }
+    ]
+  },
+  "Hull Reinforcement": {
+    "name": "Hull Reinforcement",
+    "materials": [
+      {
+        "item": {
+          "name": "Titanium"
+        },
+        "qty": 3
+      },
+      {
+        "item": {
+          "name": "Lithium"
+        },
+        "qty": 1
+      },
+      {
+        "item": {
+          "name": "Diamond"
+        },
+        "qty": 4
+      }
+    ]
+  },
+  "Hydrochloric Acid": {
+    "name": "Hydrochloric Acid",
+    "materials": [
+      {
+        "item": {
+          "name": "Deep Shroom"
+        },
+        "qty": 3
+      },
+      {
+        "item": {
+          "name": "Salt Deposit"
+        },
+        "qty": 1
+      }
+    ]
+  },
+  "Indoor Growbed": {
+    "name": "Indoor Growbed",
+    "materials": [
+      {
+        "item": {
+          "name": "Titanium"
+        },
+        "qty": 4
+      }
+    ]
+  },
+  "Ion Battery": {
+    "name": "Ion Battery",
+    "materials": [
+      {
+        "item": {
+          "name": "Ion Cube"
+        },
+        "qty": 1
+      },
+      {
+        "item": {
+          "name": "Gold"
+        },
+        "qty": 1
+      },
+      {
+        "item": {
+          "name": "Silver Ore"
+        },
+        "qty": 1
+      }
+    ]
+  },
+  "Ion Cube": {
+    "name": "Ion Cube"
+  },
+  "Ion Power Cell": {
+    "name": "Ion Power Cell",
+    "materials": [
+      {
+        "item": {
+          "name": "Ion Battery",
+          "materials": [
+            {
+              "item": {
+                "name": "Ion Cube"
+              },
+              "qty": 1
+            },
+            {
+              "item": {
+                "name": "Gold"
+              },
+              "qty": 1
+            },
+            {
+              "item": {
+                "name": "Silver Ore"
+              },
+              "qty": 1
+            }
+          ]
+        },
+        "qty": 2
+      },
+      {
+        "item": {
+          "name": "Silicone Rubber",
+          "materials": [
+            {
+              "item": {
+                "name": "Creepvine Seed Cluster"
+              },
+              "qty": 1
+            }
+          ],
+          "resultcount": 2
+        },
+        "qty": 1
+      }
+    ]
+  },
+  "Kyanite": {
+    "name": "Kyanite"
+  },
+  "L Compartment": {
+    "name": "L Compartment",
+    "materials": [
+      {
+        "item": {
+          "name": "Titanium"
+        },
+        "qty": 2
+      }
+    ]
+  },
+  "L Glass Compartment": {
+    "name": "L Glass Compartment",
+    "materials": [
+      {
+        "item": {
+          "name": "Glass",
+          "materials": [
+            {
+              "item": {
+                "name": "Quartz"
+              },
+              "qty": 2
+            }
+          ]
+        },
+        "qty": 2
+      }
+    ]
+  },
+  "Lab Counter": {
+    "name": "Lab Counter",
+    "materials": [
+      {
+        "item": {
+          "name": "Titanium"
+        },
+        "qty": 2
+      }
+    ]
+  },
+  "Ladder": {
+    "name": "Ladder",
+    "materials": [
+      {
+        "item": {
+          "name": "Titanium"
+        },
+        "qty": 2
+      }
+    ]
+  },
+  "Large Filtered Water": {
+    "name": "Large Filtered Water",
+    "materials": [
+      {
+        "item": {
+          "name": "Water"
+        },
+        "qty": 1
+      }
+    ]
+  },
+  "Laser Cutter": {
+    "name": "Laser Cutter",
+    "materials": [
+      {
+        "item": {
+          "name": "Diamond"
+        },
+        "qty": 2
+      },
+      {
+        "item": {
+          "name": "Battery",
+          "materials": [
+            {
+              "item": {
+                "name": "Acid Mushroom"
+              },
+              "qty": 2
+            },
+            {
+              "item": {
+                "name": "Copper Ore"
+              },
+              "qty": 1
+            }
+          ]
+        },
+        "qty": 1
+      },
+      {
+        "item": {
+          "name": "Titanium"
+        },
+        "qty": 1
+      },
+      {
+        "item": {
+          "name": "Cave Sulfur"
+        },
+        "qty": 1
+      }
+    ]
+  },
+  "Lead": {
+    "name": "Lead"
+  },
+  "Light Stick": {
+    "name": "Light Stick",
+    "materials": [
+      {
+        "item": {
+          "name": "Battery",
+          "materials": [
+            {
+              "item": {
+                "name": "Acid Mushroom"
+              },
+              "qty": 2
+            },
+            {
+              "item": {
+                "name": "Copper Ore"
+              },
+              "qty": 1
+            }
+          ]
+        },
+        "qty": 1
+      },
+      {
+        "item": {
+          "name": "Titanium"
+        },
+        "qty": 1
+      },
+      {
+        "item": {
+          "name": "Glass",
+          "materials": [
+            {
+              "item": {
+                "name": "Quartz"
+              },
+              "qty": 2
+            }
+          ]
+        },
+        "qty": 1
+      }
+    ]
+  },
+  "Lightweight High Capacity Tank": {
+    "name": "Lightweight High Capacity Tank",
+    "materials": [
+      {
+        "item": {
+          "name": "High Capacity O2 Tank",
+          "materials": [
+            {
+              "item": {
+                "name": "Standard O2 Tank",
+                "materials": [
+                  {
+                    "item": {
+                      "name": "Titanium"
+                    },
+                    "qty": 3
+                  }
+                ]
+              },
+              "qty": 1
+            },
+            {
+              "item": {
+                "name": "Glass",
+                "materials": [
+                  {
+                    "item": {
+                      "name": "Quartz"
+                    },
+                    "qty": 2
+                  }
+                ]
+              },
+              "qty": 2
+            },
+            {
+              "item": {
+                "name": "Titanium"
+              },
+              "qty": 4
+            },
+            {
+              "item": {
+                "name": "Silver Ore"
+              },
+              "qty": 1
+            }
+          ]
+        },
+        "qty": 1
+      },
+      {
+        "item": {
+          "name": "Plasteel Ingot",
+          "materials": [
+            {
+              "item": {
+                "name": "Titanium Ingot",
+                "materials": [
+                  {
+                    "item": {
+                      "name": "Titanium"
+                    },
+                    "qty": 10
+                  }
+                ]
+              },
+              "qty": 1
+            },
+            {
+              "item": {
+                "name": "Lithium"
+              },
+              "qty": 2
+            }
+          ]
+        },
+        "qty": 1
+      }
+    ]
+  },
+  "Lithium": {
+    "name": "Lithium"
+  },
+  "Locker": {
+    "name": "Locker",
+    "materials": [
+      {
+        "item": {
+          "name": "Quartz"
+        },
+        "qty": 1
+      },
+      {
+        "item": {
+          "name": "Titanium"
+        },
+        "qty": 2
+      }
+    ]
+  },
+  "Lubricant": {
+    "name": "Lubricant",
+    "materials": [
+      {
+        "item": {
+          "name": "Creepvine Seed Cluster"
+        },
+        "qty": 1
+      }
+    ]
+  },
+  "Magnetite": {
+    "name": "Magnetite"
+  },
+  "Medical Kit Fabricator": {
+    "name": "Medical Kit Fabricator",
+    "materials": [
+      {
+        "item": {
+          "name": "Computer Chip",
+          "materials": [
+            {
+              "item": {
+                "name": "Table Coral Sample"
+              },
+              "qty": 2
+            },
+            {
+              "item": {
+                "name": "Gold"
+              },
+              "qty": 1
+            },
+            {
+              "item": {
+                "name": "Copper Wire",
+                "materials": [
+                  {
+                    "item": {
+                      "name": "Copper Ore"
+                    },
+                    "qty": 2
+                  }
+                ]
+              },
+              "qty": 1
+            }
+          ]
+        },
+        "qty": 1
+      },
+      {
+        "item": {
+          "name": "Fiber Mesh",
+          "materials": [
+            {
+              "item": {
+                "name": "Creepvine Sample"
+              },
+              "qty": 2
+            }
+          ]
+        },
+        "qty": 1
+      },
+      {
+        "item": {
+          "name": "Silver Ore"
+        },
+        "qty": 1
+      },
+      {
+        "item": {
+          "name": "Titanium"
+        },
+        "qty": 1
+      }
+    ]
+  },
+  "Mobile Vehicle Bay": {
+    "name": "Mobile Vehicle Bay",
+    "materials": [
+      {
+        "item": {
+          "name": "Titanium Ingot",
+          "materials": [
+            {
+              "item": {
+                "name": "Titanium"
+              },
+              "qty": 10
+            }
+          ]
+        },
+        "qty": 1
+      },
+      {
+        "item": {
+          "name": "Lubricant",
+          "materials": [
+            {
+              "item": {
+                "name": "Creepvine Seed Cluster"
+              },
+              "qty": 1
+            }
+          ]
+        },
+        "qty": 1
+      },
+      {
+        "item": {
+          "name": "Power Cell",
+          "materials": [
+            {
+              "item": {
+                "name": "Battery",
+                "materials": [
+                  {
+                    "item": {
+                      "name": "Acid Mushroom"
+                    },
+                    "qty": 2
+                  },
+                  {
+                    "item": {
+                      "name": "Copper Ore"
+                    },
+                    "qty": 1
+                  }
+                ]
+              },
+              "qty": 2
+            },
+            {
+              "item": {
+                "name": "Silicone Rubber",
+                "materials": [
+                  {
+                    "item": {
+                      "name": "Creepvine Seed Cluster"
+                    },
+                    "qty": 1
+                  }
+                ],
+                "resultcount": 2
+              },
+              "qty": 1
+            }
+          ]
+        },
+        "qty": 1
+      }
+    ]
+  },
+  "Modification Station": {
+    "name": "Modification Station",
+    "materials": [
+      {
+        "item": {
+          "name": "Computer Chip",
+          "materials": [
+            {
+              "item": {
+                "name": "Table Coral Sample"
+              },
+              "qty": 2
+            },
+            {
+              "item": {
+                "name": "Gold"
+              },
+              "qty": 1
+            },
+            {
+              "item": {
+                "name": "Copper Wire",
+                "materials": [
+                  {
+                    "item": {
+                      "name": "Copper Ore"
+                    },
+                    "qty": 2
+                  }
+                ]
+              },
+              "qty": 1
+            }
+          ]
+        },
+        "qty": 1
+      },
+      {
+        "item": {
+          "name": "Titanium"
+        },
+        "qty": 1
+      },
+      {
+        "item": {
+          "name": "Diamond"
+        },
+        "qty": 1
+      },
+      {
+        "item": {
+          "name": "Lead"
+        },
+        "qty": 1
+      }
+    ]
+  },
+  "Moonpool": {
+    "name": "Moonpool",
+    "materials": [
+      {
+        "item": {
+          "name": "Titanium Ingot",
+          "materials": [
+            {
+              "item": {
+                "name": "Titanium"
+              },
+              "qty": 10
+            }
+          ]
+        },
+        "qty": 2
+      },
+      {
+        "item": {
+          "name": "Lubricant",
+          "materials": [
+            {
+              "item": {
+                "name": "Creepvine Seed Cluster"
+              },
+              "qty": 1
+            }
+          ]
+        },
+        "qty": 1
+      },
+      {
+        "item": {
+          "name": "Lead"
+        },
+        "qty": 2
+      }
+    ]
+  },
+  "Multipurpose Room": {
+    "name": "Multipurpose Room",
+    "materials": [
+      {
+        "item": {
+          "name": "Titanium"
+        },
+        "qty": 6
+      }
+    ]
+  },
+  "Neptune Boosters": {
+    "name": "Neptune Boosters",
+    "materials": [
+      {
+        "item": {
+          "name": "Plasteel Ingot",
+          "materials": [
+            {
+              "item": {
+                "name": "Titanium Ingot",
+                "materials": [
+                  {
+                    "item": {
+                      "name": "Titanium"
+                    },
+                    "qty": 10
+                  }
+                ]
+              },
+              "qty": 1
+            },
+            {
+              "item": {
+                "name": "Lithium"
+              },
+              "qty": 2
+            }
+          ]
+        },
+        "qty": 1
+      },
+      {
+        "item": {
+          "name": "Nickel Ore"
+        },
+        "qty": 3
+      },
+      {
+        "item": {
+          "name": "Aerogel",
+          "materials": [
+            {
+              "item": {
+                "name": "Gel Sack"
+              },
+              "qty": 1
+            },
+            {
+              "item": {
+                "name": "Ruby"
+              },
+              "qty": 1
+            }
+          ]
+        },
+        "qty": 2
+      },
+      {
+        "item": {
+          "name": "Wiring Kit",
+          "materials": [
+            {
+              "item": {
+                "name": "Silver Ore"
+              },
+              "qty": 2
+            }
+          ]
+        },
+        "qty": 1
+      }
+    ]
+  },
+  "Neptune Cockpit": {
+    "name": "Neptune Cockpit",
+    "materials": [
+      {
+        "item": {
+          "name": "Cyclops Shield Generator",
+          "materials": [
+            {
+              "item": {
+                "name": "Advanced Wiring Kit",
+                "materials": [
+                  {
+                    "item": {
+                      "name": "Wiring Kit",
+                      "materials": [
+                        {
+                          "item": {
+                            "name": "Silver Ore"
+                          },
+                          "qty": 2
+                        }
+                      ]
+                    },
+                    "qty": 1
+                  },
+                  {
+                    "item": {
+                      "name": "Gold"
+                    },
+                    "qty": 2
+                  },
+                  {
+                    "item": {
+                      "name": "Computer Chip",
+                      "materials": [
+                        {
+                          "item": {
+                            "name": "Table Coral Sample"
+                          },
+                          "qty": 2
+                        },
+                        {
+                          "item": {
+                            "name": "Gold"
+                          },
+                          "qty": 1
+                        },
+                        {
+                          "item": {
+                            "name": "Copper Wire",
+                            "materials": [
+                              {
+                                "item": {
+                                  "name": "Copper Ore"
+                                },
+                                "qty": 2
+                              }
+                            ]
+                          },
+                          "qty": 1
+                        }
+                      ]
+                    },
+                    "qty": 1
+                  }
+                ]
+              },
+              "qty": 1
+            },
+            {
+              "item": {
+                "name": "Polyaniline",
+                "materials": [
+                  {
+                    "item": {
+                      "name": "Gold"
+                    },
+                    "qty": 1
+                  },
+                  {
+                    "item": {
+                      "name": "Hydrochloric Acid",
+                      "materials": [
+                        {
+                          "item": {
+                            "name": "Deep Shroom"
+                          },
+                          "qty": 3
+                        },
+                        {
+                          "item": {
+                            "name": "Salt Deposit"
+                          },
+                          "qty": 1
+                        }
+                      ]
+                    },
+                    "qty": 1
+                  }
+                ]
+              },
+              "qty": 1
+            },
+            {
+              "item": {
+                "name": "Power Cell",
+                "materials": [
+                  {
+                    "item": {
+                      "name": "Battery",
+                      "materials": [
+                        {
+                          "item": {
+                            "name": "Acid Mushroom"
+                          },
+                          "qty": 2
+                        },
+                        {
+                          "item": {
+                            "name": "Copper Ore"
+                          },
+                          "qty": 1
+                        }
+                      ]
+                    },
+                    "qty": 2
+                  },
+                  {
+                    "item": {
+                      "name": "Silicone Rubber",
+                      "materials": [
+                        {
+                          "item": {
+                            "name": "Creepvine Seed Cluster"
+                          },
+                          "qty": 1
+                        }
+                      ],
+                      "resultcount": 2
+                    },
+                    "qty": 1
+                  }
+                ]
+              },
+              "qty": 1
+            }
+          ]
+        },
+        "qty": 1
+      },
+      {
+        "item": {
+          "name": "Plasteel Ingot",
+          "materials": [
+            {
+              "item": {
+                "name": "Titanium Ingot",
+                "materials": [
+                  {
+                    "item": {
+                      "name": "Titanium"
+                    },
+                    "qty": 10
+                  }
+                ]
+              },
+              "qty": 1
+            },
+            {
+              "item": {
+                "name": "Lithium"
+              },
+              "qty": 2
+            }
+          ]
+        },
+        "qty": 1
+      },
+      {
+        "item": {
+          "name": "Enameled Glass",
+          "materials": [
+            {
+              "item": {
+                "name": "Stalker Tooth"
+              },
+              "qty": 1
+            },
+            {
+              "item": {
+                "name": "Glass",
+                "materials": [
+                  {
+                    "item": {
+                      "name": "Quartz"
+                    },
+                    "qty": 2
+                  }
+                ]
+              },
+              "qty": 1
+            }
+          ]
+        },
+        "qty": 1
+      },
+      {
+        "item": {
+          "name": "Computer Chip",
+          "materials": [
+            {
+              "item": {
+                "name": "Table Coral Sample"
+              },
+              "qty": 2
+            },
+            {
+              "item": {
+                "name": "Gold"
+              },
+              "qty": 1
+            },
+            {
+              "item": {
+                "name": "Copper Wire",
+                "materials": [
+                  {
+                    "item": {
+                      "name": "Copper Ore"
+                    },
+                    "qty": 2
+                  }
+                ]
+              },
+              "qty": 1
+            }
+          ]
+        },
+        "qty": 1
+      }
+    ]
+  },
+  "Neptune Fuel Reserve": {
+    "name": "Neptune Fuel Reserve",
+    "materials": [
+      {
+        "item": {
+          "name": "Plasteel Ingot",
+          "materials": [
+            {
+              "item": {
+                "name": "Titanium Ingot",
+                "materials": [
+                  {
+                    "item": {
+                      "name": "Titanium"
+                    },
+                    "qty": 10
+                  }
+                ]
+              },
+              "qty": 1
+            },
+            {
+              "item": {
+                "name": "Lithium"
+              },
+              "qty": 2
+            }
+          ]
+        },
+        "qty": 1
+      },
+      {
+        "item": {
+          "name": "Crystalline Sulfur"
+        },
+        "qty": 4
+      },
+      {
+        "item": {
+          "name": "Kyanite"
+        },
+        "qty": 4
+      },
+      {
+        "item": {
+          "name": "Ion Power Cell",
+          "materials": [
+            {
+              "item": {
+                "name": "Ion Battery",
+                "materials": [
+                  {
+                    "item": {
+                      "name": "Ion Cube"
+                    },
+                    "qty": 1
+                  },
+                  {
+                    "item": {
+                      "name": "Gold"
+                    },
+                    "qty": 1
+                  },
+                  {
+                    "item": {
+                      "name": "Silver Ore"
+                    },
+                    "qty": 1
+                  }
+                ]
+              },
+              "qty": 2
+            },
+            {
+              "item": {
+                "name": "Silicone Rubber",
+                "materials": [
+                  {
+                    "item": {
+                      "name": "Creepvine Seed Cluster"
+                    },
+                    "qty": 1
+                  }
+                ],
+                "resultcount": 2
+              },
+              "qty": 1
+            }
+          ]
+        },
+        "qty": 2
+      }
+    ]
+  },
+  "Neptune Gantry": {
+    "name": "Neptune Gantry",
+    "materials": [
+      {
+        "item": {
+          "name": "Plasteel Ingot",
+          "materials": [
+            {
+              "item": {
+                "name": "Titanium Ingot",
+                "materials": [
+                  {
+                    "item": {
+                      "name": "Titanium"
+                    },
+                    "qty": 10
+                  }
+                ]
+              },
+              "qty": 1
+            },
+            {
+              "item": {
+                "name": "Lithium"
+              },
+              "qty": 2
+            }
+          ]
+        },
+        "qty": 1
+      },
+      {
+        "item": {
+          "name": "Copper Wire",
+          "materials": [
+            {
+              "item": {
+                "name": "Copper Ore"
+              },
+              "qty": 2
+            }
+          ]
+        },
+        "qty": 1
+      },
+      {
+        "item": {
+          "name": "Lubricant",
+          "materials": [
+            {
+              "item": {
+                "name": "Creepvine Seed Cluster"
+              },
+              "qty": 1
+            }
+          ]
+        },
+        "qty": 1
+      }
+    ]
+  },
+  "Neptune Launch Platform": {
+    "name": "Neptune Launch Platform",
+    "materials": [
+      {
+        "item": {
+          "name": "Lead"
+        },
+        "qty": 4
+      },
+      {
+        "item": {
+          "name": "Titanium Ingot",
+          "materials": [
+            {
+              "item": {
+                "name": "Titanium"
+              },
+              "qty": 10
+            }
+          ]
+        },
+        "qty": 2
+      },
+      {
+        "item": {
+          "name": "Computer Chip",
+          "materials": [
+            {
+              "item": {
+                "name": "Table Coral Sample"
+              },
+              "qty": 2
+            },
+            {
+              "item": {
+                "name": "Gold"
+              },
+              "qty": 1
+            },
+            {
+              "item": {
+                "name": "Copper Wire",
+                "materials": [
+                  {
+                    "item": {
+                      "name": "Copper Ore"
+                    },
+                    "qty": 2
+                  }
+                ]
+              },
+              "qty": 1
+            }
+          ]
+        },
+        "qty": 1
+      }
+    ]
+  },
+  "Nickel Ore": {
+    "name": "Nickel Ore"
+  },
+  "Nuclear Reactor": {
+    "name": "Nuclear Reactor",
+    "materials": [
+      {
+        "item": {
+          "name": "Plasteel Ingot",
+          "materials": [
+            {
+              "item": {
+                "name": "Titanium Ingot",
+                "materials": [
+                  {
+                    "item": {
+                      "name": "Titanium"
+                    },
+                    "qty": 10
+                  }
+                ]
+              },
+              "qty": 1
+            },
+            {
+              "item": {
+                "name": "Lithium"
+              },
+              "qty": 2
+            }
+          ]
+        },
+        "qty": 1
+      },
+      {
+        "item": {
+          "name": "Advanced Wiring Kit",
+          "materials": [
+            {
+              "item": {
+                "name": "Wiring Kit",
+                "materials": [
+                  {
+                    "item": {
+                      "name": "Silver Ore"
+                    },
+                    "qty": 2
+                  }
+                ]
+              },
+              "qty": 1
+            },
+            {
+              "item": {
+                "name": "Gold"
+              },
+              "qty": 2
+            },
+            {
+              "item": {
+                "name": "Computer Chip",
+                "materials": [
+                  {
+                    "item": {
+                      "name": "Table Coral Sample"
+                    },
+                    "qty": 2
+                  },
+                  {
+                    "item": {
+                      "name": "Gold"
+                    },
+                    "qty": 1
+                  },
+                  {
+                    "item": {
+                      "name": "Copper Wire",
+                      "materials": [
+                        {
+                          "item": {
+                            "name": "Copper Ore"
+                          },
+                          "qty": 2
+                        }
+                      ]
+                    },
+                    "qty": 1
+                  }
+                ]
+              },
+              "qty": 1
+            }
+          ]
+        },
+        "qty": 1
+      },
+      {
+        "item": {
+          "name": "Lead"
+        },
+        "qty": 3
+      }
+    ]
+  },
+  "Nuclear Waste Disposal": {
+    "name": "Nuclear Waste Disposal",
+    "materials": [
+      {
+        "item": {
+          "name": "Titanium"
+        },
+        "qty": 2
+      }
+    ]
+  },
+  "Observatory": {
+    "name": "Observatory",
+    "materials": [
+      {
+        "item": {
+          "name": "Enameled Glass",
+          "materials": [
+            {
+              "item": {
+                "name": "Stalker Tooth"
+              },
+              "qty": 1
+            },
+            {
+              "item": {
+                "name": "Glass",
+                "materials": [
+                  {
+                    "item": {
+                      "name": "Quartz"
+                    },
+                    "qty": 2
+                  }
+                ]
+              },
+              "qty": 1
+            }
+          ]
+        },
+        "qty": 2
+      },
+      {
+        "item": {
+          "name": "Titanium"
+        },
+        "qty": 1
+      }
+    ]
+  },
+  "Office Chair": {
+    "name": "Office Chair",
+    "materials": [
+      {
+        "item": {
+          "name": "Titanium"
+        },
+        "qty": 1
+      }
+    ]
+  },
+  "Orange Tablet": {
+    "name": "Orange Tablet",
+    "materials": [
+      {
+        "item": {
+          "name": "Ion Cube"
+        },
+        "qty": 1
+      },
+      {
+        "item": {
+          "name": "Nickel Ore"
+        },
+        "qty": 2
+      }
+    ]
+  },
+  "Pathfinder Tool": {
+    "name": "Pathfinder Tool",
+    "materials": [
+      {
+        "item": {
+          "name": "Creepvine Seed Cluster"
+        },
+        "qty": 2
+      },
+      {
+        "item": {
+          "name": "Copper Wire",
+          "materials": [
+            {
+              "item": {
+                "name": "Copper Ore"
+              },
+              "qty": 2
+            }
+          ]
+        },
+        "qty": 1
+      },
+      {
+        "item": {
+          "name": "Titanium"
+        },
+        "qty": 1
+      }
+    ]
+  },
+  "Picture Frame": {
+    "name": "Picture Frame",
+    "materials": [
+      {
+        "item": {
+          "name": "Copper Wire",
+          "materials": [
+            {
+              "item": {
+                "name": "Copper Ore"
+              },
+              "qty": 2
+            }
+          ]
+        },
+        "qty": 1
+      }
+    ]
+  },
+  "Pipe": {
+    "name": "Pipe",
+    "materials": [
+      {
+        "item": {
+          "name": "Titanium"
+        },
+        "qty": 2
+      }
+    ],
+    "resultcount": 5
+  },
+  "Pipe Surface Floater": {
+    "name": "Pipe Surface Floater",
+    "materials": [
+      {
+        "item": {
+          "name": "Titanium"
+        },
+        "qty": 2
+      }
+    ]
+  },
+  "Plant Shelf": {
+    "name": "Plant Shelf",
+    "materials": [
+      {
+        "item": {
+          "name": "Titanium"
+        },
+        "qty": 1
+      }
+    ]
+  },
+  "Plasteel Ingot": {
+    "name": "Plasteel Ingot",
+    "materials": [
+      {
+        "item": {
+          "name": "Titanium Ingot",
+          "materials": [
+            {
+              "item": {
+                "name": "Titanium"
+              },
+              "qty": 10
+            }
+          ]
+        },
+        "qty": 1
+      },
+      {
+        "item": {
+          "name": "Lithium"
+        },
+        "qty": 2
+      }
+    ]
+  },
+  "Polyaniline": {
+    "name": "Polyaniline",
+    "materials": [
+      {
+        "item": {
+          "name": "Gold"
+        },
+        "qty": 1
+      },
+      {
+        "item": {
+          "name": "Hydrochloric Acid",
+          "materials": [
+            {
+              "item": {
+                "name": "Deep Shroom"
+              },
+              "qty": 3
+            },
+            {
+              "item": {
+                "name": "Salt Deposit"
+              },
+              "qty": 1
+            }
+          ]
+        },
+        "qty": 1
+      }
+    ]
+  },
+  "Power Cell": {
+    "name": "Power Cell",
+    "materials": [
+      {
+        "item": {
+          "name": "Battery",
+          "materials": [
+            {
+              "item": {
+                "name": "Acid Mushroom"
+              },
+              "qty": 2
+            },
+            {
+              "item": {
+                "name": "Copper Ore"
+              },
+              "qty": 1
+            }
+          ]
+        },
+        "qty": 2
+      },
+      {
+        "item": {
+          "name": "Silicone Rubber",
+          "materials": [
+            {
+              "item": {
+                "name": "Creepvine Seed Cluster"
+              },
+              "qty": 1
+            }
+          ],
+          "resultcount": 2
+        },
+        "qty": 1
+      }
+    ]
+  },
+  "Power Cell Charger": {
+    "name": "Power Cell Charger",
+    "materials": [
+      {
+        "item": {
+          "name": "Advanced Wiring Kit",
+          "materials": [
+            {
+              "item": {
+                "name": "Wiring Kit",
+                "materials": [
+                  {
+                    "item": {
+                      "name": "Silver Ore"
+                    },
+                    "qty": 2
+                  }
+                ]
+              },
+              "qty": 1
+            },
+            {
+              "item": {
+                "name": "Gold"
+              },
+              "qty": 2
+            },
+            {
+              "item": {
+                "name": "Computer Chip",
+                "materials": [
+                  {
+                    "item": {
+                      "name": "Table Coral Sample"
+                    },
+                    "qty": 2
+                  },
+                  {
+                    "item": {
+                      "name": "Gold"
+                    },
+                    "qty": 1
+                  },
+                  {
+                    "item": {
+                      "name": "Copper Wire",
+                      "materials": [
+                        {
+                          "item": {
+                            "name": "Copper Ore"
+                          },
+                          "qty": 2
+                        }
+                      ]
+                    },
+                    "qty": 1
+                  }
+                ]
+              },
+              "qty": 1
+            }
+          ]
+        },
+        "qty": 1
+      },
+      {
+        "item": {
+          "name": "Ruby"
+        },
+        "qty": 2
+      },
+      {
+        "item": {
+          "name": "Titanium"
+        },
+        "qty": 2
+      }
+    ]
+  },
+  "Power Transmitter": {
+    "name": "Power Transmitter",
+    "materials": [
+      {
+        "item": {
+          "name": "Gold"
+        },
+        "qty": 1
+      },
+      {
+        "item": {
+          "name": "Titanium"
+        },
+        "qty": 1
+      }
+    ]
+  },
+  "Prawn Suit": {
+    "name": "Prawn Suit",
+    "materials": [
+      {
+        "item": {
+          "name": "Plasteel Ingot",
+          "materials": [
+            {
+              "item": {
+                "name": "Titanium Ingot",
+                "materials": [
+                  {
+                    "item": {
+                      "name": "Titanium"
+                    },
+                    "qty": 10
+                  }
+                ]
+              },
+              "qty": 1
+            },
+            {
+              "item": {
+                "name": "Lithium"
+              },
+              "qty": 2
+            }
+          ]
+        },
+        "qty": 2
+      },
+      {
+        "item": {
+          "name": "Aerogel",
+          "materials": [
+            {
+              "item": {
+                "name": "Gel Sack"
+              },
+              "qty": 1
+            },
+            {
+              "item": {
+                "name": "Ruby"
+              },
+              "qty": 1
+            }
+          ]
+        },
+        "qty": 2
+      },
+      {
+        "item": {
+          "name": "Enameled Glass",
+          "materials": [
+            {
+              "item": {
+                "name": "Stalker Tooth"
+              },
+              "qty": 1
+            },
+            {
+              "item": {
+                "name": "Glass",
+                "materials": [
+                  {
+                    "item": {
+                      "name": "Quartz"
+                    },
+                    "qty": 2
+                  }
+                ]
+              },
+              "qty": 1
+            }
+          ]
+        },
+        "qty": 1
+      },
+      {
+        "item": {
+          "name": "Diamond"
+        },
+        "qty": 2
+      },
+      {
+        "item": {
+          "name": "Lead"
+        },
+        "qty": 2
+      }
+    ]
+  },
+  "Prawn Suit Depth Module MK1": {
+    "name": "Prawn Suit Depth Module MK1",
+    "materials": [
+      {
+        "item": {
+          "name": "Plasteel Ingot",
+          "materials": [
+            {
+              "item": {
+                "name": "Titanium Ingot",
+                "materials": [
+                  {
+                    "item": {
+                      "name": "Titanium"
+                    },
+                    "qty": 10
+                  }
+                ]
+              },
+              "qty": 1
+            },
+            {
+              "item": {
+                "name": "Lithium"
+              },
+              "qty": 2
+            }
+          ]
+        },
+        "qty": 1
+      },
+      {
+        "item": {
+          "name": "Nickel Ore"
+        },
+        "qty": 3
+      },
+      {
+        "item": {
+          "name": "Ruby"
+        },
+        "qty": 2
+      }
+    ]
+  },
+  "Prawn Suit Depth Module MK2": {
+    "name": "Prawn Suit Depth Module MK2",
+    "materials": [
+      {
+        "item": {
+          "name": "Prawn Suit Depth Module MK1",
+          "materials": [
+            {
+              "item": {
+                "name": "Plasteel Ingot",
+                "materials": [
+                  {
+                    "item": {
+                      "name": "Titanium Ingot",
+                      "materials": [
+                        {
+                          "item": {
+                            "name": "Titanium"
+                          },
+                          "qty": 10
+                        }
+                      ]
+                    },
+                    "qty": 1
+                  },
+                  {
+                    "item": {
+                      "name": "Lithium"
+                    },
+                    "qty": 2
+                  }
+                ]
+              },
+              "qty": 1
+            },
+            {
+              "item": {
+                "name": "Nickel Ore"
+              },
+              "qty": 3
+            },
+            {
+              "item": {
+                "name": "Ruby"
+              },
+              "qty": 2
+            }
+          ]
+        },
+        "qty": 1
+      },
+      {
+        "item": {
+          "name": "Titanium"
+        },
+        "qty": 5
+      },
+      {
+        "item": {
+          "name": "Lithium"
+        },
+        "qty": 2
+      },
+      {
+        "item": {
+          "name": "Kyanite"
+        },
+        "qty": 3
+      }
+    ]
+  },
+  "Prawn Suit Drill Arm": {
+    "name": "Prawn Suit Drill Arm",
+    "materials": [
+      {
+        "item": {
+          "name": "Titanium"
+        },
+        "qty": 5
+      },
+      {
+        "item": {
+          "name": "Lithium"
+        },
+        "qty": 1
+      },
+      {
+        "item": {
+          "name": "Diamond"
+        },
+        "qty": 4
+      }
+    ]
+  },
+  "Prawn Suit Grappling Arm": {
+    "name": "Prawn Suit Grappling Arm",
+    "materials": [
+      {
+        "item": {
+          "name": "Advanced Wiring Kit",
+          "materials": [
+            {
+              "item": {
+                "name": "Wiring Kit",
+                "materials": [
+                  {
+                    "item": {
+                      "name": "Silver Ore"
+                    },
+                    "qty": 2
+                  }
+                ]
+              },
+              "qty": 1
+            },
+            {
+              "item": {
+                "name": "Gold"
+              },
+              "qty": 2
+            },
+            {
+              "item": {
+                "name": "Computer Chip",
+                "materials": [
+                  {
+                    "item": {
+                      "name": "Table Coral Sample"
+                    },
+                    "qty": 2
+                  },
+                  {
+                    "item": {
+                      "name": "Gold"
+                    },
+                    "qty": 1
+                  },
+                  {
+                    "item": {
+                      "name": "Copper Wire",
+                      "materials": [
+                        {
+                          "item": {
+                            "name": "Copper Ore"
+                          },
+                          "qty": 2
+                        }
+                      ]
+                    },
+                    "qty": 1
+                  }
+                ]
+              },
+              "qty": 1
+            }
+          ]
+        },
+        "qty": 1
+      },
+      {
+        "item": {
+          "name": "Titanium"
+        },
+        "qty": 5
+      },
+      {
+        "item": {
+          "name": "Lithium"
+        },
+        "qty": 1
+      },
+      {
+        "item": {
+          "name": "Benzene",
+          "materials": [
+            {
+              "item": {
+                "name": "Blood Oil"
+              },
+              "qty": 3
+            }
+          ]
+        },
+        "qty": 1
+      }
+    ]
+  },
+  "Prawn Suit Jump Jet Upgrade": {
+    "name": "Prawn Suit Jump Jet Upgrade",
+    "materials": [
+      {
+        "item": {
+          "name": "Nickel Ore"
+        },
+        "qty": 2
+      },
+      {
+        "item": {
+          "name": "Crystalline Sulfur"
+        },
+        "qty": 3
+      },
+      {
+        "item": {
+          "name": "Titanium"
+        },
+        "qty": 5
+      },
+      {
+        "item": {
+          "name": "Lithium"
+        },
+        "qty": 1
+      }
+    ]
+  },
+  "Prawn Suit Propulsion Cannon": {
+    "name": "Prawn Suit Propulsion Cannon",
+    "materials": [
+      {
+        "item": {
+          "name": "Computer Chip",
+          "materials": [
+            {
+              "item": {
+                "name": "Table Coral Sample"
+              },
+              "qty": 2
+            },
+            {
+              "item": {
+                "name": "Gold"
+              },
+              "qty": 1
+            },
+            {
+              "item": {
+                "name": "Copper Wire",
+                "materials": [
+                  {
+                    "item": {
+                      "name": "Copper Ore"
+                    },
+                    "qty": 2
+                  }
+                ]
+              },
+              "qty": 1
+            }
+          ]
+        },
+        "qty": 1
+      },
+      {
+        "item": {
+          "name": "Titanium"
+        },
+        "qty": 5
+      },
+      {
+        "item": {
+          "name": "Lithium"
+        },
+        "qty": 1
+      },
+      {
+        "item": {
+          "name": "Magnetite"
+        },
+        "qty": 2
+      }
+    ]
+  },
+  "Prawn Suit Thermal Reactor": {
+    "name": "Prawn Suit Thermal Reactor",
+    "materials": [
+      {
+        "item": {
+          "name": "Kyanite"
+        },
+        "qty": 2
+      },
+      {
+        "item": {
+          "name": "Polyaniline",
+          "materials": [
+            {
+              "item": {
+                "name": "Gold"
+              },
+              "qty": 1
+            },
+            {
+              "item": {
+                "name": "Hydrochloric Acid",
+                "materials": [
+                  {
+                    "item": {
+                      "name": "Deep Shroom"
+                    },
+                    "qty": 3
+                  },
+                  {
+                    "item": {
+                      "name": "Salt Deposit"
+                    },
+                    "qty": 1
+                  }
+                ]
+              },
+              "qty": 1
+            }
+          ]
+        },
+        "qty": 2
+      },
+      {
+        "item": {
+          "name": "Wiring Kit",
+          "materials": [
+            {
+              "item": {
+                "name": "Silver Ore"
+              },
+              "qty": 2
+            }
+          ]
+        },
+        "qty": 1
+      }
+    ]
+  },
+  "Prawn Suit Torpedo Arm": {
+    "name": "Prawn Suit Torpedo Arm",
+    "materials": [
+      {
+        "item": {
+          "name": "Titanium"
+        },
+        "qty": 5
+      },
+      {
+        "item": {
+          "name": "Lithium"
+        },
+        "qty": 1
+      },
+      {
+        "item": {
+          "name": "Aerogel",
+          "materials": [
+            {
+              "item": {
+                "name": "Gel Sack"
+              },
+              "qty": 1
+            },
+            {
+              "item": {
+                "name": "Ruby"
+              },
+              "qty": 1
+            }
+          ]
+        },
+        "qty": 1
+      }
+    ]
+  },
+  "Propulsion Cannon": {
+    "name": "Propulsion Cannon",
+    "materials": [
+      {
+        "item": {
+          "name": "Wiring Kit",
+          "materials": [
+            {
+              "item": {
+                "name": "Silver Ore"
+              },
+              "qty": 2
+            }
+          ]
+        },
+        "qty": 1
+      },
+      {
+        "item": {
+          "name": "Battery",
+          "materials": [
+            {
+              "item": {
+                "name": "Acid Mushroom"
+              },
+              "qty": 2
+            },
+            {
+              "item": {
+                "name": "Copper Ore"
+              },
+              "qty": 1
+            }
+          ]
+        },
+        "qty": 1
+      },
+      {
+        "item": {
+          "name": "Titanium"
+        },
+        "qty": 1
+      }
+    ]
+  },
+  "Purple Tablet": {
+    "name": "Purple Tablet",
+    "materials": [
+      {
+        "item": {
+          "name": "Ion Cube"
+        },
+        "qty": 1
+      },
+      {
+        "item": {
+          "name": "Diamond"
+        },
+        "qty": 2
+      }
+    ]
+  },
+  "Quartz": {
+    "name": "Quartz"
+  },
+  "Quilted Double Bed": {
+    "name": "Quilted Double Bed",
+    "materials": [
+      {
+        "item": {
+          "name": "Titanium"
+        },
+        "qty": 2
+      },
+      {
+        "item": {
+          "name": "Fiber Mesh",
+          "materials": [
+            {
+              "item": {
+                "name": "Creepvine Sample"
+              },
+              "qty": 2
+            }
+          ]
+        },
+        "qty": 1
+      }
+    ]
+  },
+  "Radiation Suit": {
+    "name": "Radiation Suit",
+    "materials": [
+      {
+        "item": {
+          "name": "Fiber Mesh",
+          "materials": [
+            {
+              "item": {
+                "name": "Creepvine Sample"
+              },
+              "qty": 2
+            }
+          ]
+        },
+        "qty": 2
+      },
+      {
+        "item": {
+          "name": "Lead"
+        },
+        "qty": 2
+      }
+    ]
+  },
+  "Radio": {
+    "name": "Radio",
+    "materials": [
+      {
+        "item": {
+          "name": "Titanium"
+        },
+        "qty": 1
+      },
+      {
+        "item": {
+          "name": "Copper Ore"
+        },
+        "qty": 1
+      }
+    ]
+  },
+  "Reactor Rod": {
+    "name": "Reactor Rod",
+    "materials": [
+      {
+        "item": {
+          "name": "Uraninite Crystal"
+        },
+        "qty": 3
+      },
+      {
+        "item": {
+          "name": "Lead"
+        },
+        "qty": 1
+      },
+      {
+        "item": {
+          "name": "Titanium"
+        },
+        "qty": 1
+      },
+      {
+        "item": {
+          "name": "Glass",
+          "materials": [
+            {
+              "item": {
+                "name": "Quartz"
+              },
+              "qty": 2
+            }
+          ]
+        },
+        "qty": 1
+      }
+    ]
+  },
+  "Rebreather": {
+    "name": "Rebreather",
+    "materials": [
+      {
+        "item": {
+          "name": "Wiring Kit",
+          "materials": [
+            {
+              "item": {
+                "name": "Silver Ore"
+              },
+              "qty": 2
+            }
+          ]
+        },
+        "qty": 1
+      },
+      {
+        "item": {
+          "name": "Fiber Mesh",
+          "materials": [
+            {
+              "item": {
+                "name": "Creepvine Sample"
+              },
+              "qty": 2
+            }
+          ]
+        },
+        "qty": 1
+      }
+    ]
+  },
+  "Reinforced Dive Suit": {
+    "name": "Reinforced Dive Suit",
+    "materials": [
+      {
+        "item": {
+          "name": "Synthetic Fibers",
+          "materials": [
+            {
+              "item": {
+                "name": "Benzene",
+                "materials": [
+                  {
+                    "item": {
+                      "name": "Blood Oil"
+                    },
+                    "qty": 3
+                  }
+                ]
+              },
+              "qty": 1
+            },
+            {
+              "item": {
+                "name": "Fiber Mesh",
+                "materials": [
+                  {
+                    "item": {
+                      "name": "Creepvine Sample"
+                    },
+                    "qty": 2
+                  }
+                ]
+              },
+              "qty": 1
+            }
+          ]
+        },
+        "qty": 1
+      },
+      {
+        "item": {
+          "name": "Diamond"
+        },
+        "qty": 2
+      },
+      {
+        "item": {
+          "name": "Titanium"
+        },
+        "qty": 2
+      }
+    ]
+  },
+  "Reinforcement": {
+    "name": "Reinforcement",
+    "materials": [
+      {
+        "item": {
+          "name": "Lithium"
+        },
+        "qty": 1
+      },
+      {
+        "item": {
+          "name": "Titanium"
+        },
+        "qty": 3
+      }
+    ]
+  },
+  "Repair Tool": {
+    "name": "Repair Tool",
+    "materials": [
+      {
+        "item": {
+          "name": "Silicone Rubber",
+          "materials": [
+            {
+              "item": {
+                "name": "Creepvine Seed Cluster"
+              },
+              "qty": 1
+            }
+          ],
+          "resultcount": 2
+        },
+        "qty": 1
+      },
+      {
+        "item": {
+          "name": "Cave Sulfur"
+        },
+        "qty": 1
+      },
+      {
+        "item": {
+          "name": "Titanium"
+        },
+        "qty": 1
+      }
+    ]
+  },
+  "Repulsion Cannon": {
+    "name": "Repulsion Cannon",
+    "materials": [
+      {
+        "item": {
+          "name": "Propulsion Cannon",
+          "materials": [
+            {
+              "item": {
+                "name": "Wiring Kit",
+                "materials": [
+                  {
+                    "item": {
+                      "name": "Silver Ore"
+                    },
+                    "qty": 2
+                  }
+                ]
+              },
+              "qty": 1
+            },
+            {
+              "item": {
+                "name": "Battery",
+                "materials": [
+                  {
+                    "item": {
+                      "name": "Acid Mushroom"
+                    },
+                    "qty": 2
+                  },
+                  {
+                    "item": {
+                      "name": "Copper Ore"
+                    },
+                    "qty": 1
+                  }
+                ]
+              },
+              "qty": 1
+            },
+            {
+              "item": {
+                "name": "Titanium"
+              },
+              "qty": 1
+            }
+          ]
+        },
+        "qty": 1
+      },
+      {
+        "item": {
+          "name": "Computer Chip",
+          "materials": [
+            {
+              "item": {
+                "name": "Table Coral Sample"
+              },
+              "qty": 2
+            },
+            {
+              "item": {
+                "name": "Gold"
+              },
+              "qty": 1
+            },
+            {
+              "item": {
+                "name": "Copper Wire",
+                "materials": [
+                  {
+                    "item": {
+                      "name": "Copper Ore"
+                    },
+                    "qty": 2
+                  }
+                ]
+              },
+              "qty": 1
+            }
+          ]
+        },
+        "qty": 1
+      },
+      {
+        "item": {
+          "name": "Magnetite"
+        },
+        "qty": 2
+      }
+    ]
+  },
+  "Ruby": {
+    "name": "Ruby"
+  },
+  "Salt Deposit": {
+    "name": "Salt Deposit"
+  },
+  "Scanner": {
+    "name": "Scanner",
+    "materials": [
+      {
+        "item": {
+          "name": "Battery",
+          "materials": [
+            {
+              "item": {
+                "name": "Acid Mushroom"
+              },
+              "qty": 2
+            },
+            {
+              "item": {
+                "name": "Copper Ore"
+              },
+              "qty": 1
+            }
+          ]
+        },
+        "qty": 1
+      },
+      {
+        "item": {
+          "name": "Titanium"
+        },
+        "qty": 1
+      }
+    ]
+  },
+  "Scanner Room": {
+    "name": "Scanner Room",
+    "materials": [
+      {
+        "item": {
+          "name": "Titanium"
+        },
+        "qty": 5
+      },
+      {
+        "item": {
+          "name": "Copper Ore"
+        },
+        "qty": 2
+      },
+      {
+        "item": {
+          "name": "Gold"
+        },
+        "qty": 1
+      },
+      {
+        "item": {
+          "name": "Table Coral Sample"
+        },
+        "qty": 1
+      }
+    ]
+  },
+  "Scanner Room HUD Chip": {
+    "name": "Scanner Room HUD Chip",
+    "materials": [
+      {
+        "item": {
+          "name": "Computer Chip",
+          "materials": [
+            {
+              "item": {
+                "name": "Table Coral Sample"
+              },
+              "qty": 2
+            },
+            {
+              "item": {
+                "name": "Gold"
+              },
+              "qty": 1
+            },
+            {
+              "item": {
+                "name": "Copper Wire",
+                "materials": [
+                  {
+                    "item": {
+                      "name": "Copper Ore"
+                    },
+                    "qty": 2
+                  }
+                ]
+              },
+              "qty": 1
+            }
+          ]
+        },
+        "qty": 1
+      },
+      {
+        "item": {
+          "name": "Magnetite"
+        },
+        "qty": 1
+      }
+    ]
+  },
+  "Scanner Room Range Upgrade": {
+    "name": "Scanner Room Range Upgrade",
+    "materials": [
+      {
+        "item": {
+          "name": "Copper Ore"
+        },
+        "qty": 1
+      },
+      {
+        "item": {
+          "name": "Magnetite"
+        },
+        "qty": 1
+      }
+    ]
+  },
+  "Scanner Room Speed Upgrade": {
+    "name": "Scanner Room Speed Upgrade",
+    "materials": [
+      {
+        "item": {
+          "name": "Silver Ore"
+        },
+        "qty": 1
+      },
+      {
+        "item": {
+          "name": "Gold"
+        },
+        "qty": 1
+      }
+    ]
+  },
+  "Sea Crown Seed": {
+    "name": "Sea Crown Seed"
+  },
+  "Seaglide": {
+    "name": "Seaglide",
+    "materials": [
+      {
+        "item": {
+          "name": "Battery",
+          "materials": [
+            {
+              "item": {
+                "name": "Acid Mushroom"
+              },
+              "qty": 2
+            },
+            {
+              "item": {
+                "name": "Copper Ore"
+              },
+              "qty": 1
+            }
+          ]
+        },
+        "qty": 1
+      },
+      {
+        "item": {
+          "name": "Lubricant",
+          "materials": [
+            {
+              "item": {
+                "name": "Creepvine Seed Cluster"
+              },
+              "qty": 1
+            }
+          ]
+        },
+        "qty": 1
+      },
+      {
+        "item": {
+          "name": "Copper Wire",
+          "materials": [
+            {
+              "item": {
+                "name": "Copper Ore"
+              },
+              "qty": 2
+            }
+          ]
+        },
+        "qty": 1
+      },
+      {
+        "item": {
+          "name": "Titanium"
+        },
+        "qty": 1
+      }
+    ]
+  },
+  "Seamoth": {
+    "name": "Seamoth",
+    "materials": [
+      {
+        "item": {
+          "name": "Titanium Ingot",
+          "materials": [
+            {
+              "item": {
+                "name": "Titanium"
+              },
+              "qty": 10
+            }
+          ]
+        },
+        "qty": 1
+      },
+      {
+        "item": {
+          "name": "Power Cell",
+          "materials": [
+            {
+              "item": {
+                "name": "Battery",
+                "materials": [
+                  {
+                    "item": {
+                      "name": "Acid Mushroom"
+                    },
+                    "qty": 2
+                  },
+                  {
+                    "item": {
+                      "name": "Copper Ore"
+                    },
+                    "qty": 1
+                  }
+                ]
+              },
+              "qty": 2
+            },
+            {
+              "item": {
+                "name": "Silicone Rubber",
+                "materials": [
+                  {
+                    "item": {
+                      "name": "Creepvine Seed Cluster"
+                    },
+                    "qty": 1
+                  }
+                ],
+                "resultcount": 2
+              },
+              "qty": 1
+            }
+          ]
+        },
+        "qty": 1
+      },
+      {
+        "item": {
+          "name": "Glass",
+          "materials": [
+            {
+              "item": {
+                "name": "Quartz"
+              },
+              "qty": 2
+            }
+          ]
+        },
+        "qty": 2
+      },
+      {
+        "item": {
+          "name": "Lubricant",
+          "materials": [
+            {
+              "item": {
+                "name": "Creepvine Seed Cluster"
+              },
+              "qty": 1
+            }
+          ]
+        },
+        "qty": 1
+      },
+      {
+        "item": {
+          "name": "Lead"
+        },
+        "qty": 1
+      }
+    ]
+  },
+  "Seamoth Depth Module MK1": {
+    "name": "Seamoth Depth Module MK1",
+    "materials": [
+      {
+        "item": {
+          "name": "Titanium Ingot",
+          "materials": [
+            {
+              "item": {
+                "name": "Titanium"
+              },
+              "qty": 10
+            }
+          ]
+        },
+        "qty": 1
+      },
+      {
+        "item": {
+          "name": "Glass",
+          "materials": [
+            {
+              "item": {
+                "name": "Quartz"
+              },
+              "qty": 2
+            }
+          ]
+        },
+        "qty": 2
+      }
+    ]
+  },
+  "Seamoth Depth Module MK2": {
+    "name": "Seamoth Depth Module MK2",
+    "materials": [
+      {
+        "item": {
+          "name": "Seamoth Depth Module MK1",
+          "materials": [
+            {
+              "item": {
+                "name": "Titanium Ingot",
+                "materials": [
+                  {
+                    "item": {
+                      "name": "Titanium"
+                    },
+                    "qty": 10
+                  }
+                ]
+              },
+              "qty": 1
+            },
+            {
+              "item": {
+                "name": "Glass",
+                "materials": [
+                  {
+                    "item": {
+                      "name": "Quartz"
+                    },
+                    "qty": 2
+                  }
+                ]
+              },
+              "qty": 2
+            }
+          ]
+        },
+        "qty": 1
+      },
+      {
+        "item": {
+          "name": "Plasteel Ingot",
+          "materials": [
+            {
+              "item": {
+                "name": "Titanium Ingot",
+                "materials": [
+                  {
+                    "item": {
+                      "name": "Titanium"
+                    },
+                    "qty": 10
+                  }
+                ]
+              },
+              "qty": 1
+            },
+            {
+              "item": {
+                "name": "Lithium"
+              },
+              "qty": 2
+            }
+          ]
+        },
+        "qty": 1
+      },
+      {
+        "item": {
+          "name": "Magnetite"
+        },
+        "qty": 2
+      },
+      {
+        "item": {
+          "name": "Enameled Glass",
+          "materials": [
+            {
+              "item": {
+                "name": "Stalker Tooth"
+              },
+              "qty": 1
+            },
+            {
+              "item": {
+                "name": "Glass",
+                "materials": [
+                  {
+                    "item": {
+                      "name": "Quartz"
+                    },
+                    "qty": 2
+                  }
+                ]
+              },
+              "qty": 1
+            }
+          ]
+        },
+        "qty": 1
+      }
+    ]
+  },
+  "Seamoth Depth Module MK3": {
+    "name": "Seamoth Depth Module MK3",
+    "materials": [
+      {
+        "item": {
+          "name": "Seamoth Depth Module MK2",
+          "materials": [
+            {
+              "item": {
+                "name": "Seamoth Depth Module MK1",
+                "materials": [
+                  {
+                    "item": {
+                      "name": "Titanium Ingot",
+                      "materials": [
+                        {
+                          "item": {
+                            "name": "Titanium"
+                          },
+                          "qty": 10
+                        }
+                      ]
+                    },
+                    "qty": 1
+                  },
+                  {
+                    "item": {
+                      "name": "Glass",
+                      "materials": [
+                        {
+                          "item": {
+                            "name": "Quartz"
+                          },
+                          "qty": 2
+                        }
+                      ]
+                    },
+                    "qty": 2
+                  }
+                ]
+              },
+              "qty": 1
+            },
+            {
+              "item": {
+                "name": "Plasteel Ingot",
+                "materials": [
+                  {
+                    "item": {
+                      "name": "Titanium Ingot",
+                      "materials": [
+                        {
+                          "item": {
+                            "name": "Titanium"
+                          },
+                          "qty": 10
+                        }
+                      ]
+                    },
+                    "qty": 1
+                  },
+                  {
+                    "item": {
+                      "name": "Lithium"
+                    },
+                    "qty": 2
+                  }
+                ]
+              },
+              "qty": 1
+            },
+            {
+              "item": {
+                "name": "Magnetite"
+              },
+              "qty": 2
+            },
+            {
+              "item": {
+                "name": "Enameled Glass",
+                "materials": [
+                  {
+                    "item": {
+                      "name": "Stalker Tooth"
+                    },
+                    "qty": 1
+                  },
+                  {
+                    "item": {
+                      "name": "Glass",
+                      "materials": [
+                        {
+                          "item": {
+                            "name": "Quartz"
+                          },
+                          "qty": 2
+                        }
+                      ]
+                    },
+                    "qty": 1
+                  }
+                ]
+              },
+              "qty": 1
+            }
+          ]
+        },
+        "qty": 1
+      },
+      {
+        "item": {
+          "name": "Plasteel Ingot",
+          "materials": [
+            {
+              "item": {
+                "name": "Titanium Ingot",
+                "materials": [
+                  {
+                    "item": {
+                      "name": "Titanium"
+                    },
+                    "qty": 10
+                  }
+                ]
+              },
+              "qty": 1
+            },
+            {
+              "item": {
+                "name": "Lithium"
+              },
+              "qty": 2
+            }
+          ]
+        },
+        "qty": 1
+      },
+      {
+        "item": {
+          "name": "Ruby"
+        },
+        "qty": 3
+      }
+    ]
+  },
+  "Seamoth Perimeter Defense System": {
+    "name": "Seamoth Perimeter Defense System",
+    "materials": [
+      {
+        "item": {
+          "name": "Polyaniline",
+          "materials": [
+            {
+              "item": {
+                "name": "Gold"
+              },
+              "qty": 1
+            },
+            {
+              "item": {
+                "name": "Hydrochloric Acid",
+                "materials": [
+                  {
+                    "item": {
+                      "name": "Deep Shroom"
+                    },
+                    "qty": 3
+                  },
+                  {
+                    "item": {
+                      "name": "Salt Deposit"
+                    },
+                    "qty": 1
+                  }
+                ]
+              },
+              "qty": 1
+            }
+          ]
+        },
+        "qty": 1
+      },
+      {
+        "item": {
+          "name": "Wiring Kit",
+          "materials": [
+            {
+              "item": {
+                "name": "Silver Ore"
+              },
+              "qty": 2
+            }
+          ]
+        },
+        "qty": 1
+      }
+    ]
+  },
+  "Seamoth Solar Charger": {
+    "name": "Seamoth Solar Charger",
+    "materials": [
+      {
+        "item": {
+          "name": "Advanced Wiring Kit",
+          "materials": [
+            {
+              "item": {
+                "name": "Wiring Kit",
+                "materials": [
+                  {
+                    "item": {
+                      "name": "Silver Ore"
+                    },
+                    "qty": 2
+                  }
+                ]
+              },
+              "qty": 1
+            },
+            {
+              "item": {
+                "name": "Gold"
+              },
+              "qty": 2
+            },
+            {
+              "item": {
+                "name": "Computer Chip",
+                "materials": [
+                  {
+                    "item": {
+                      "name": "Table Coral Sample"
+                    },
+                    "qty": 2
+                  },
+                  {
+                    "item": {
+                      "name": "Gold"
+                    },
+                    "qty": 1
+                  },
+                  {
+                    "item": {
+                      "name": "Copper Wire",
+                      "materials": [
+                        {
+                          "item": {
+                            "name": "Copper Ore"
+                          },
+                          "qty": 2
+                        }
+                      ]
+                    },
+                    "qty": 1
+                  }
+                ]
+              },
+              "qty": 1
+            }
+          ]
+        },
+        "qty": 1
+      },
+      {
+        "item": {
+          "name": "Enameled Glass",
+          "materials": [
+            {
+              "item": {
+                "name": "Stalker Tooth"
+              },
+              "qty": 1
+            },
+            {
+              "item": {
+                "name": "Glass",
+                "materials": [
+                  {
+                    "item": {
+                      "name": "Quartz"
+                    },
+                    "qty": 2
+                  }
+                ]
+              },
+              "qty": 1
+            }
+          ]
+        },
+        "qty": 1
+      }
+    ]
+  },
+  "Seamoth Sonar": {
+    "name": "Seamoth Sonar",
+    "materials": [
+      {
+        "item": {
+          "name": "Copper Wire",
+          "materials": [
+            {
+              "item": {
+                "name": "Copper Ore"
+              },
+              "qty": 2
+            }
+          ]
+        },
+        "qty": 1
+      },
+      {
+        "item": {
+          "name": "Magnetite"
+        },
+        "qty": 2
+      }
+    ]
+  },
+  "Sign": {
+    "name": "Sign",
+    "materials": [
+      {
+        "item": {
+          "name": "Copper Wire",
+          "materials": [
+            {
+              "item": {
+                "name": "Copper Ore"
+              },
+              "qty": 2
+            }
+          ]
+        },
+        "qty": 1
+      }
+    ]
+  },
+  "Silicone Rubber": {
+    "name": "Silicone Rubber",
+    "materials": [
+      {
+        "item": {
+          "name": "Creepvine Seed Cluster"
+        },
+        "qty": 1
+      }
+    ],
+    "resultcount": 2
+  },
+  "Silver Ore": {
+    "name": "Silver Ore"
+  },
+  "Single Bed": {
+    "name": "Single Bed",
+    "materials": [
+      {
+        "item": {
+          "name": "Titanium"
+        },
+        "qty": 1
+      },
+      {
+        "item": {
+          "name": "Fiber Mesh",
+          "materials": [
+            {
+              "item": {
+                "name": "Creepvine Sample"
+              },
+              "qty": 2
+            }
+          ]
+        },
+        "qty": 1
+      }
+    ]
+  },
+  "Single Wall Shelf": {
+    "name": "Single Wall Shelf",
+    "materials": [
+      {
+        "item": {
+          "name": "Titanium"
+        },
+        "qty": 1
+      }
+    ]
+  },
+  "Solar Panel": {
+    "name": "Solar Panel",
+    "materials": [
+      {
+        "item": {
+          "name": "Quartz"
+        },
+        "qty": 2
+      },
+      {
+        "item": {
+          "name": "Titanium"
+        },
+        "qty": 2
+      },
+      {
+        "item": {
+          "name": "Copper Ore"
+        },
+        "qty": 1
+      }
+    ]
+  },
+  "Spotlight": {
+    "name": "Spotlight",
+    "materials": [
+      {
+        "item": {
+          "name": "Glass",
+          "materials": [
+            {
+              "item": {
+                "name": "Quartz"
+              },
+              "qty": 2
+            }
+          ]
+        },
+        "qty": 1
+      },
+      {
+        "item": {
+          "name": "Titanium"
+        },
+        "qty": 2
+      }
+    ]
+  },
+  "Stalker Tooth": {
+    "name": "Stalker Tooth"
+  },
+  "Standard O2 Tank": {
+    "name": "Standard O2 Tank",
+    "materials": [
+      {
+        "item": {
+          "name": "Titanium"
+        },
+        "qty": 3
+      }
+    ]
+  },
+  "Stasis Rifle": {
+    "name": "Stasis Rifle",
+    "materials": [
+      {
+        "item": {
+          "name": "Computer Chip",
+          "materials": [
+            {
+              "item": {
+                "name": "Table Coral Sample"
+              },
+              "qty": 2
+            },
+            {
+              "item": {
+                "name": "Gold"
+              },
+              "qty": 1
+            },
+            {
+              "item": {
+                "name": "Copper Wire",
+                "materials": [
+                  {
+                    "item": {
+                      "name": "Copper Ore"
+                    },
+                    "qty": 2
+                  }
+                ]
+              },
+              "qty": 1
+            }
+          ]
+        },
+        "qty": 1
+      },
+      {
+        "item": {
+          "name": "Battery",
+          "materials": [
+            {
+              "item": {
+                "name": "Acid Mushroom"
+              },
+              "qty": 2
+            },
+            {
+              "item": {
+                "name": "Copper Ore"
+              },
+              "qty": 1
+            }
+          ]
+        },
+        "qty": 1
+      },
+      {
+        "item": {
+          "name": "Titanium"
+        },
+        "qty": 1
+      },
+      {
+        "item": {
+          "name": "Magnetite"
+        },
+        "qty": 2
+      }
+    ]
+  },
+  "Stillsuit": {
+    "name": "Stillsuit",
+    "materials": [
+      {
+        "item": {
+          "name": "Synthetic Fibers",
+          "materials": [
+            {
+              "item": {
+                "name": "Benzene",
+                "materials": [
+                  {
+                    "item": {
+                      "name": "Blood Oil"
+                    },
+                    "qty": 3
+                  }
+                ]
+              },
+              "qty": 1
+            },
+            {
+              "item": {
+                "name": "Fiber Mesh",
+                "materials": [
+                  {
+                    "item": {
+                      "name": "Creepvine Sample"
+                    },
+                    "qty": 2
+                  }
+                ]
+              },
+              "qty": 1
+            }
+          ]
+        },
+        "qty": 1
+      },
+      {
+        "item": {
+          "name": "Aerogel",
+          "materials": [
+            {
+              "item": {
+                "name": "Gel Sack"
+              },
+              "qty": 1
+            },
+            {
+              "item": {
+                "name": "Ruby"
+              },
+              "qty": 1
+            }
+          ]
+        },
+        "qty": 1
+      },
+      {
+        "item": {
+          "name": "Copper Wire",
+          "materials": [
+            {
+              "item": {
+                "name": "Copper Ore"
+              },
+              "qty": 2
+            }
+          ]
+        },
+        "qty": 1
+      }
+    ]
+  },
+  "Storage Module": {
+    "name": "Storage Module",
+    "materials": [
+      {
+        "item": {
+          "name": "Titanium"
+        },
+        "qty": 3
+      },
+      {
+        "item": {
+          "name": "Lithium"
+        },
+        "qty": 1
+      }
+    ]
+  },
+  "Survival Knife": {
+    "name": "Survival Knife",
+    "materials": [
+      {
+        "item": {
+          "name": "Silicone Rubber",
+          "materials": [
+            {
+              "item": {
+                "name": "Creepvine Seed Cluster"
+              },
+              "qty": 1
+            }
+          ],
+          "resultcount": 2
+        },
+        "qty": 1
+      },
+      {
+        "item": {
+          "name": "Titanium"
+        },
+        "qty": 1
+      }
+    ]
+  },
+  "Swim Charge Fins": {
+    "name": "Swim Charge Fins",
+    "materials": [
+      {
+        "item": {
+          "name": "Fins",
+          "materials": [
+            {
+              "item": {
+                "name": "Silicone Rubber",
+                "materials": [
+                  {
+                    "item": {
+                      "name": "Creepvine Seed Cluster"
+                    },
+                    "qty": 1
+                  }
+                ],
+                "resultcount": 2
+              },
+              "qty": 2
+            }
+          ]
+        },
+        "qty": 1
+      },
+      {
+        "item": {
+          "name": "Polyaniline",
+          "materials": [
+            {
+              "item": {
+                "name": "Gold"
+              },
+              "qty": 1
+            },
+            {
+              "item": {
+                "name": "Hydrochloric Acid",
+                "materials": [
+                  {
+                    "item": {
+                      "name": "Deep Shroom"
+                    },
+                    "qty": 3
+                  },
+                  {
+                    "item": {
+                      "name": "Salt Deposit"
+                    },
+                    "qty": 1
+                  }
+                ]
+              },
+              "qty": 1
+            }
+          ]
+        },
+        "qty": 1
+      },
+      {
+        "item": {
+          "name": "Wiring Kit",
+          "materials": [
+            {
+              "item": {
+                "name": "Silver Ore"
+              },
+              "qty": 2
+            }
+          ]
+        },
+        "qty": 1
+      }
+    ]
+  },
+  "Swivel Chair": {
+    "name": "Swivel Chair",
+    "materials": [
+      {
+        "item": {
+          "name": "Titanium"
+        },
+        "qty": 1
+      }
+    ]
+  },
+  "Synthetic Fibers": {
+    "name": "Synthetic Fibers",
+    "materials": [
+      {
+        "item": {
+          "name": "Benzene",
+          "materials": [
+            {
+              "item": {
+                "name": "Blood Oil"
+              },
+              "qty": 3
+            }
+          ]
+        },
+        "qty": 1
+      },
+      {
+        "item": {
+          "name": "Fiber Mesh",
+          "materials": [
+            {
+              "item": {
+                "name": "Creepvine Sample"
+              },
+              "qty": 2
+            }
+          ]
+        },
+        "qty": 1
+      }
+    ]
+  },
+  "T Compartment": {
+    "name": "T Compartment",
+    "materials": [
+      {
+        "item": {
+          "name": "Titanium"
+        },
+        "qty": 3
+      }
+    ]
+  },
+  "Table Coral Sample": {
+    "name": "Table Coral Sample"
+  },
+  "Thermal Plant": {
+    "name": "Thermal Plant",
+    "materials": [
+      {
+        "item": {
+          "name": "Titanium"
+        },
+        "qty": 5
+      },
+      {
+        "item": {
+          "name": "Magnetite"
+        },
+        "qty": 2
+      },
+      {
+        "item": {
+          "name": "Aerogel",
+          "materials": [
+            {
+              "item": {
+                "name": "Gel Sack"
+              },
+              "qty": 1
+            },
+            {
+              "item": {
+                "name": "Ruby"
+              },
+              "qty": 1
+            }
+          ]
+        },
+        "qty": 1
+      }
+    ]
+  },
+  "Thermoblade": {
+    "name": "Thermoblade",
+    "materials": [
+      {
+        "item": {
+          "name": "Survival Knife",
+          "materials": [
+            {
+              "item": {
+                "name": "Silicone Rubber",
+                "materials": [
+                  {
+                    "item": {
+                      "name": "Creepvine Seed Cluster"
+                    },
+                    "qty": 1
+                  }
+                ],
+                "resultcount": 2
+              },
+              "qty": 1
+            },
+            {
+              "item": {
+                "name": "Titanium"
+              },
+              "qty": 1
+            }
+          ]
+        },
+        "qty": 1
+      },
+      {
+        "item": {
+          "name": "Battery",
+          "materials": [
+            {
+              "item": {
+                "name": "Acid Mushroom"
+              },
+              "qty": 2
+            },
+            {
+              "item": {
+                "name": "Copper Ore"
+              },
+              "qty": 1
+            }
+          ]
+        },
+        "qty": 1
+      }
+    ]
+  },
+  "Titanium": {
+    "name": "Titanium"
+  },
+  "Titanium Ingot": {
+    "name": "Titanium Ingot",
+    "materials": [
+      {
+        "item": {
+          "name": "Titanium"
+        },
+        "qty": 10
+      }
+    ]
+  },
+  "Torpedo System": {
+    "name": "Torpedo System",
+    "materials": [
+      {
+        "item": {
+          "name": "Titanium"
+        },
+        "qty": 3
+      },
+      {
+        "item": {
+          "name": "Lithium"
+        },
+        "qty": 1
+      },
+      {
+        "item": {
+          "name": "Aerogel",
+          "materials": [
+            {
+              "item": {
+                "name": "Gel Sack"
+              },
+              "qty": 1
+            },
+            {
+              "item": {
+                "name": "Ruby"
+              },
+              "qty": 1
+            }
+          ]
+        },
+        "qty": 1
+      }
+    ]
+  },
+  "Trash Can": {
+    "name": "Trash Can",
+    "materials": [
+      {
+        "item": {
+          "name": "Titanium"
+        },
+        "qty": 2
+      }
+    ]
+  },
+  "Ultra Glide Fins": {
+    "name": "Ultra Glide Fins",
+    "materials": [
+      {
+        "item": {
+          "name": "Fins",
+          "materials": [
+            {
+              "item": {
+                "name": "Silicone Rubber",
+                "materials": [
+                  {
+                    "item": {
+                      "name": "Creepvine Seed Cluster"
+                    },
+                    "qty": 1
+                  }
+                ],
+                "resultcount": 2
+              },
+              "qty": 2
+            }
+          ]
+        },
+        "qty": 1
+      },
+      {
+        "item": {
+          "name": "Silicone Rubber",
+          "materials": [
+            {
+              "item": {
+                "name": "Creepvine Seed Cluster"
+              },
+              "qty": 1
+            }
+          ],
+          "resultcount": 2
+        },
+        "qty": 2
+      },
+      {
+        "item": {
+          "name": "Titanium"
+        },
+        "qty": 1
+      },
+      {
+        "item": {
+          "name": "Lithium"
+        },
+        "qty": 1
+      }
+    ]
+  },
+  "Ultra High Capacity Tank": {
+    "name": "Ultra High Capacity Tank",
+    "materials": [
+      {
+        "item": {
+          "name": "High Capacity O2 Tank",
+          "materials": [
+            {
+              "item": {
+                "name": "Standard O2 Tank",
+                "materials": [
+                  {
+                    "item": {
+                      "name": "Titanium"
+                    },
+                    "qty": 3
+                  }
+                ]
+              },
+              "qty": 1
+            },
+            {
+              "item": {
+                "name": "Glass",
+                "materials": [
+                  {
+                    "item": {
+                      "name": "Quartz"
+                    },
+                    "qty": 2
+                  }
+                ]
+              },
+              "qty": 2
+            },
+            {
+              "item": {
+                "name": "Titanium"
+              },
+              "qty": 4
+            },
+            {
+              "item": {
+                "name": "Silver Ore"
+              },
+              "qty": 1
+            }
+          ]
+        },
+        "qty": 1
+      },
+      {
+        "item": {
+          "name": "Lithium"
+        },
+        "qty": 4
+      }
+    ]
+  },
+  "Uraninite Crystal": {
+    "name": "Uraninite Crystal"
+  },
+  "Vehicle Upgrade Console": {
+    "name": "Vehicle Upgrade Console",
+    "materials": [
+      {
+        "item": {
+          "name": "Titanium"
+        },
+        "qty": 3
+      },
+      {
+        "item": {
+          "name": "Computer Chip",
+          "materials": [
+            {
+              "item": {
+                "name": "Table Coral Sample"
+              },
+              "qty": 2
+            },
+            {
+              "item": {
+                "name": "Gold"
+              },
+              "qty": 1
+            },
+            {
+              "item": {
+                "name": "Copper Wire",
+                "materials": [
+                  {
+                    "item": {
+                      "name": "Copper Ore"
+                    },
+                    "qty": 2
+                  }
+                ]
+              },
+              "qty": 1
+            }
+          ]
+        },
+        "qty": 1
+      },
+      {
+        "item": {
+          "name": "Copper Wire",
+          "materials": [
+            {
+              "item": {
+                "name": "Copper Ore"
+              },
+              "qty": 2
+            }
+          ]
+        },
+        "qty": 1
+      }
+    ]
+  },
+  "Vending Machine": {
+    "name": "Vending Machine",
+    "materials": [
+      {
+        "item": {
+          "name": "Glass",
+          "materials": [
+            {
+              "item": {
+                "name": "Quartz"
+              },
+              "qty": 2
+            }
+          ]
+        },
+        "qty": 1
+      },
+      {
+        "item": {
+          "name": "Titanium"
+        },
+        "qty": 2
+      }
+    ]
+  },
+  "Vertical Connector": {
+    "name": "Vertical Connector",
+    "materials": [
+      {
+        "item": {
+          "name": "Titanium"
+        },
+        "qty": 2
+      }
+    ]
+  },
+  "Vortex Torpedo": {
+    "name": "Vortex Torpedo",
+    "materials": [
+      {
+        "item": {
+          "name": "Titanium"
+        },
+        "qty": 1
+      },
+      {
+        "item": {
+          "name": "Magnetite"
+        },
+        "qty": 1
+      }
+    ],
+    "resultcount": 2
+  },
+  "Wall Locker": {
+    "name": "Wall Locker",
+    "materials": [
+      {
+        "item": {
+          "name": "Titanium"
+        },
+        "qty": 2
+      }
+    ]
+  },
+  "Wall Planter": {
+    "name": "Wall Planter",
+    "materials": [
+      {
+        "item": {
+          "name": "Titanium"
+        },
+        "qty": 1
+      }
+    ]
+  },
+  "Wall Shelves": {
+    "name": "Wall Shelves",
+    "materials": [
+      {
+        "item": {
+          "name": "Titanium"
+        },
+        "qty": 2
+      }
+    ]
+  },
+  "Water": {
+    "name": "Water"
+  },
+  "Water Filtration Machine": {
+    "name": "Water Filtration Machine",
+    "materials": [
+      {
+        "item": {
+          "name": "Titanium"
+        },
+        "qty": 3
+      },
+      {
+        "item": {
+          "name": "Copper Wire",
+          "materials": [
+            {
+              "item": {
+                "name": "Copper Ore"
+              },
+              "qty": 2
+            }
+          ]
+        },
+        "qty": 1
+      },
+      {
+        "item": {
+          "name": "Aerogel",
+          "materials": [
+            {
+              "item": {
+                "name": "Gel Sack"
+              },
+              "qty": 1
+            },
+            {
+              "item": {
+                "name": "Ruby"
+              },
+              "qty": 1
+            }
+          ]
+        },
+        "qty": 1
+      }
+    ]
+  },
+  "Waterproof Locker": {
+    "name": "Waterproof Locker",
+    "materials": [
+      {
+        "item": {
+          "name": "Titanium"
+        },
+        "qty": 4
+      }
+    ]
+  },
+  "Window": {
+    "name": "Window",
+    "materials": [
+      {
+        "item": {
+          "name": "Glass",
+          "materials": [
+            {
+              "item": {
+                "name": "Quartz"
+              },
+              "qty": 2
+            }
+          ]
+        },
+        "qty": 1
+      }
+    ]
+  },
+  "Wiring Kit": {
+    "name": "Wiring Kit",
+    "materials": [
+      {
+        "item": {
+          "name": "Silver Ore"
+        },
+        "qty": 2
+      }
+    ]
+  },
+  "X Compartment": {
+    "name": "X Compartment",
+    "materials": [
+      {
+        "item": {
+          "name": "Titanium"
+        },
+        "qty": 3
+      }
+    ]
+  }
+}
