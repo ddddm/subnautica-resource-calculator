@@ -1,6 +1,6 @@
 import React from "react";
 
-import RecipteListItem from "./RecipteListItem";
+import RecipeListItem from "./RecipeListItem";
 
 export default function RecipeList({ items, direction }) {
   if (!items) return null;
@@ -8,7 +8,7 @@ export default function RecipeList({ items, direction }) {
   return (
     <ul>
       {items.map(m => (
-        <RecipteListItem key={m.item} direction={direction} material={m} />
+        <RecipeListItem key={m.item} direction={direction} material={m} />
       ))}
     </ul>
   );
