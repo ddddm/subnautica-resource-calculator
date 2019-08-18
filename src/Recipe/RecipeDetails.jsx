@@ -5,6 +5,8 @@ import RecipeList from "./RecipeList";
 import RecipeName from "./RecipeName/RecipeName";
 import styles from "./RecipeDetails.module.css";
 
+const RecipeSubHeader = ({ children }) => <h3>{children}</h3>;
+
 export default function RecipeDetails({ selectedToken }) {
   const { recipes, materials, sources } = useContext(ItemsContext);
 
@@ -17,9 +19,9 @@ export default function RecipeDetails({ selectedToken }) {
   return (
     <section className={styles.container}>
       <RecipeName name={name} />
-      {materialList && <p>Made from</p>}
+      {materialList && <RecipeSubHeader>Made from</RecipeSubHeader>}
       {materialList && <RecipeList direction="recipe" items={materialList} />}
-      {sourcesList && <p>Used in</p>}
+      {sourcesList && <RecipeSubHeader>Used in</RecipeSubHeader>}
       {sourcesList && <RecipeList direction="source" items={sourcesList} />}
     </section>
   );
