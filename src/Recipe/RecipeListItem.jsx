@@ -1,7 +1,7 @@
 import React, { useContext } from "react";
 
 import ItemsContext from "../itemsContext";
-import Item from "./Item";
+import RecipeListItemName from "./RecipeListItemName";
 import RecipeList from "./RecipeList";
 
 export default function RecipteListItem({ material, direction }) {
@@ -17,7 +17,7 @@ export default function RecipteListItem({ material, direction }) {
 
   return (
     <li>
-      <Item token={item} />
+      <RecipeListItemName token={item} />
       {qty && ` \u00D7 ${qty}`}
 
       {materiaSubList && (
