@@ -1,6 +1,6 @@
 import React from "react";
 
-import RecipeListItem from "./RecipeListItem";
+import RecipeListItem from "../RecipeListItem";
 
 export default function RecipeList({ items, direction }) {
   if (!items) return null;
