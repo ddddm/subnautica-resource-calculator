@@ -20,5 +20,6 @@ test("sources Map has a list of tokens", () => {
 
 test("sources Map has a valid token for 'gold'", () => {
   const item = sources.get("gold");
-  expect(item).toContain("advanced_wiring_kit");
+  const found = item.find(i => i.item === "advanced_wiring_kit");
+  expect(found).toBeTruthy();
 });
