@@ -1,10 +1,23 @@
+body {
+  padding: 0.5rem;
+  display: flex;
+  flex-direction: column;
+}
+
 .search {
   flex: 0 0 auto;
   box-sizing: border-box;
+  margin: 0 0 0.5rem;
 }
 
 .list {
+  margin: 0.5rem 0;
+  box-sizing: border-box;
+  flex: 0 0 auto;
 }
 
 .details {
+  margin: 0.5rem 0;
+  flex: 0 0 auto;
+  box-sizing: border-box;
 }

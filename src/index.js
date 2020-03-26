@@ -10,5 +10,5 @@ window.addEventListener("error", error => {
   );
 });
 
-const rootElement = document.getElementById("root");
+const rootElement = document.body;
 ReactDOM.render(<AppShell />, rootElement);

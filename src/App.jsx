@@ -1,4 +1,4 @@
-import React, { useContext, useState } from "react";
+import React, { useContext, useState, useCallback, useRef } from "react";
 
 import ItemsContext from "./itemsContext";
 import Search from "./ItemList/Search";
@@ -8,28 +8,45 @@ import RecipeDetails from "./Recipe/RecipeDetails";
 import "./globalStyles.css";
 import styles from "./App.module.css";
 
-function filterItemList(term, itemsList) {
+const getList = materials =>
+  Array.from(materials).map(element => ({
+    token: element[0],
+    name: element[1]
+  }));
+
+const filterItemList = (term, itemsList) => {
   const t = term.toLowerCase();
   return itemsList.filter(({ name }) => name.toLowerCase().indexOf(t) !== -1);
-}
+};
 
-function hasTerm(term) {
+const hasTerm = term => {
   return Boolean(term);
-}
+};
 
 export default function App() {
   const { materials } = useContext(ItemsContext);
-  const getList = () =>
-    Array.from(materials).map(element => ({
-      token: element[0],
-      name: element[1]
-    }));
-  const itemsList = getList(materials);
+  const { current: itemsList } = useRef(getList(materials));
+
   const [term, updateTerm] = useState();
   const [selectedItem, selectItem] = useState();
-  const handleSearch = event => updateTerm(event.target.value);
-  const list = hasTerm(term) ? filterItemList(term, itemsList) : itemsList;
-  const renderList = list.slice(0, 10);
+  const [isSearchResultsShown, toggleSearchResults] = useState(false);
+
+  const list = (hasTerm(term)
+    ? filterItemList(term, itemsList)
+    : itemsList
+  ).slice(0, 10);
+
+  const handleSearch = useCallback(event => updateTerm(event.target.value), []);
+  const handleItemSelection = useCallback(
+    item => {
+      selectItem(item);
+      toggleSearchResults(false);
+    },
+    [selectItem, toggleSearchResults]
+  );
+  const handleSearchFocus = useCallback(() => {
+    toggleSearchResults(true);
+  }, [toggleSearchResults]);
 
   return (
     <>
@@ -37,13 +54,15 @@ export default function App() {
         className={styles.search}
         onSearch={handleSearch}
         term={term}
-        list={list}
+        onFocus={handleSearchFocus}
       />
-      <ItemList
-        className={styles.list}
-        list={renderList}
-        onItemSelect={selectItem}
-      />
+      {isSearchResultsShown && (
+        <ItemList
+          className={styles.list}
+          list={list}
+          onItemSelect={handleItemSelection}
+        />
+      )}
       <RecipeDetails className={styles.details} selectedToken={selectedItem} />
     </>
   );

@@ -10,9 +10,3 @@ html {
   color: rgb(159, 189, 205);
   background: rgb(40, 51, 78);
 }
-
-#root {
-  padding: 0.5rem;
-  display: flex;
-  flex-direction: column;
-}
