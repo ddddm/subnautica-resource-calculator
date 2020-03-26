@@ -1,6 +1,5 @@
 .container {
-  display: flex;
-  flex-direction: row;
+  position: relative;
 }
 .input {
   -webkit-appearance: none;
@@ -18,4 +17,12 @@
   border-radius: 1px;
   padding: 14px 14px 14px 40px;
   background: rgb(36, 43, 66);
+}
+.list {
+  position: absolute;
+  width: 100%;
+  background: rgb(40, 51, 87);
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(80, 95, 145);
 }
