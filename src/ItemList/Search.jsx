@@ -1,5 +1,6 @@
 import React, { useContext, useState, useCallback, useRef } from "react";
 
+import { assignColor } from "../data/tools";
 import ItemsContext from "../itemsContext";
 import ItemList from "./ItemList";
 import styles from "./Search.module.css";
@@ -8,7 +9,8 @@ import { cn } from "../utils";
 const getList = materials =>
   Array.from(materials).map(element => ({
     token: element[0],
-    name: element[1]
+    name: element[1],
+    color: assignColor(element[0])
   }));
 const filterItemList = (term, itemsList) => {
   const t = term.toLowerCase();

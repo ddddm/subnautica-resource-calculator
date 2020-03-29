@@ -1,5 +1,8 @@
 .listItem {
   cursor: pointer;
+  display: flex;
+  justify-content: start;
+  align-items: center;
   width: 100%;
   font-size: 1rem;
   padding: 0.75rem 20px 0.7rem;
@@ -10,4 +13,10 @@
 }
 .listItem:hover {
   background: rgb(80, 95, 145);
+}
+
+.icon {
+  margin: 0 0.5rem 0 0;
+  width: 1.25rem;
+  height: 1.25rem;
 }

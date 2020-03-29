@@ -6,6 +6,11 @@ const namesReversed = new Map();
 const recipesFor = new Map();
 const recipesFrom = new Map();
 
+export function assignColor(token) {
+  const randomColor = Math.floor(Math.random() * 16777215).toString(16);
+  return `#${randomColor}`;
+}
+
 for (let item in materialNames) {
   namesReversed.set(materialNames[item], item);
   materialTokensToNames.set(item, materialNames[item]);
