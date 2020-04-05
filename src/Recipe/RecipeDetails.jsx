@@ -6,7 +6,7 @@ import RecipeName from "./RecipeName/RecipeName";
 import styles from "./RecipeDetails.module.css";
 import { cn } from "../utils";
 
-const RecipeSubHeader = ({ children }) => <h3>{children}</h3>;
+const RecipeSubHeader = ({ children }) => <p>{children}</p>;
 
 export default function RecipeDetails({ selectedToken, className }) {
   const { recipes, materials, sources } = useContext(ItemsContext);
