@@ -4,6 +4,6 @@ import ItemsContext from "../itemsContext";
 
 export default function RecipteListItem({ token }) {
   const { materials } = useContext(ItemsContext);
-  const materialName = materials.get(token);
-  return <span>{materialName}</span>;
+  const { name } = materials.get(token);
+  return <span>{name}</span>;
 }

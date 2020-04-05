@@ -7,11 +7,14 @@ import styles from "./Search.module.css";
 import { cn } from "../utils";
 
 const getList = materials =>
-  Array.from(materials).map(element => ({
-    token: element[0],
-    name: element[1],
-    color: assignColor(element[0])
-  }));
+  Array.from(materials).map(element => {
+    const [token, { name, color }] = element;
+    return {
+      token,
+      name,
+      color
+    };
+  });
 const filterItemList = (term, itemsList) => {
   const t = term.toLowerCase();
   return itemsList.filter(({ name }) => name.toLowerCase().indexOf(t) !== -1);

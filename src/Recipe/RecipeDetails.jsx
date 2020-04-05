@@ -13,7 +13,7 @@ export default function RecipeDetails({ selectedToken, className }) {
 
   if (!selectedToken) return null;
 
-  const name = materials.get(selectedToken);
+  const { name } = materials.get(selectedToken);
   const materialList = recipes.get(selectedToken);
   const sourcesList = sources.get(selectedToken);
 

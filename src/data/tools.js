@@ -13,7 +13,10 @@ export function assignColor(token) {
 
 for (let item in materialNames) {
   namesReversed.set(materialNames[item], item);
-  materialTokensToNames.set(item, materialNames[item]);
+  materialTokensToNames.set(item, {
+    name: materialNames[item],
+    color: assignColor(item)
+  });
 }
 
 function existingMaterialsMapper(material) {

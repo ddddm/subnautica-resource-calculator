@@ -3,8 +3,8 @@ import { materials, recipes, sources } from "./tools";
 test("materials Map has names per token", () => {
   const token = "torpedo_system";
   const itemName = "Torpedo System";
-  const item = materials.get(token);
-  expect(item).toBe(itemName);
+  const { name } = materials.get(token);
+  expect(name).toBe(itemName);
 });
 
 test("recipes Map has a recipe", () => {
