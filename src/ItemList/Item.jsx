@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useCallback } from "react";
 
 import styles from "./Item.module.css";
 
@@ -24,19 +24,10 @@ const Icon = ({ color }) => {
 };
 
 export default ({ onClick, data }) => {
-  const { token, name, color, imageUrl } = data;
-  const clickHandler = e => {
-    const { target } = e;
-    const token = target.dataset.token;
-    onClick(token);
-  };
+  const { token, name, color } = data;
+  const clickHandler = useCallback(() => onClick(token), [token, onClick]);
   return (
-    <li
-      role="button"
-      className={styles.listItem}
-      onClick={clickHandler}
-      data-token={token}
-    >
+    <li role="button" className={styles.listItem} onClick={clickHandler}>
       <Icon color={color} />
       <span>{name}</span>
     </li>
